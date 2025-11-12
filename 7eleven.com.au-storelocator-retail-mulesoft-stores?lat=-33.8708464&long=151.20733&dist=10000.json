@@ -19009,43 +19009,43 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseEstimatedCost": "816159",
+      "franchiseEstimatedCost": "665159",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
-          "start_time": "6:00 am",
-          "end_time": "11:00 am"
+          "start_time": "12:00 pm",
+          "end_time": "5:00 am"
         },
         {
           "day_of_week": 1,
-          "start_time": "6:00 am",
-          "end_time": "11:00 am"
+          "start_time": "12:00 pm",
+          "end_time": "5:00 am"
         },
         {
           "day_of_week": 2,
-          "start_time": "6:00 am",
-          "end_time": "11:00 am"
+          "start_time": "12:00 pm",
+          "end_time": "5:00 am"
         },
         {
           "day_of_week": 3,
-          "start_time": "6:00 am",
-          "end_time": "11:00 am"
+          "start_time": "12:00 pm",
+          "end_time": "5:00 am"
         },
         {
           "day_of_week": 4,
-          "start_time": "6:00 am",
-          "end_time": "11:00 am"
+          "start_time": "12:00 pm",
+          "end_time": "5:00 am"
         },
         {
           "day_of_week": 5,
-          "start_time": "6:00 am",
-          "end_time": "11:00 am"
+          "start_time": "12:00 pm",
+          "end_time": "5:00 am"
         },
         {
           "day_of_week": 6,
-          "start_time": "6:00 am",
-          "end_time": "11:00 am"
+          "start_time": "12:00 pm",
+          "end_time": "5:00 am"
         }
       ],
       "specialOpeningHours": [],
@@ -37451,43 +37451,43 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseEstimatedCost": "590292",
+      "franchiseEstimatedCost": "490292",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -51555,43 +51555,43 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseEstimatedCost": "1561637",
+      "franchiseEstimatedCost": "1261637",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
