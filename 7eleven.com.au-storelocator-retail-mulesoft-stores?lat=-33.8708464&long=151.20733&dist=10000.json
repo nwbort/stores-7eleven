@@ -60818,6 +60818,92 @@
       }
     },
     {
+      "storeId": "1237",
+      "distance": 714.05507725099,
+      "name": "620 Collins Street",
+      "location": [
+        -37.818667019877,
+        144.95491460391
+      ],
+      "centre": "",
+      "address": {
+        "address1": "620 Collins Street",
+        "address2": "",
+        "suburb": "Melbourne",
+        "state": "VIC",
+        "postcode": "3000",
+        "extra": ""
+      },
+      "phone": "03 9614 1667",
+      "fax": "",
+      "allHours": true,
+      "isActive": true,
+      "isDigitalDisplay": false,
+      "isFuelStore": false,
+      "hasKiosk": false,
+      "features": [
+        "CupRescue",
+        "Alt Milk",
+        "MCO",
+        "Velocity",
+        "MCOPilot",
+        "PaPPilot",
+        "Smoothies&Frappés"
+      ],
+      "ParcelMate": [],
+      "fuelOptions": [],
+      "atm": false,
+      "isBrandNewStore": false,
+      "isFranchiseOpp": false,
+      "franchiseSuburb": "",
+      "franchiseEstimatedCost": "",
+      "allowStoreDelivery": false,
+      "openingHours": [
+        {
+          "day_of_week": 0,
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
+        },
+        {
+          "day_of_week": 1,
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
+        },
+        {
+          "day_of_week": 2,
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
+        },
+        {
+          "day_of_week": 3,
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
+        },
+        {
+          "day_of_week": 4,
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
+        },
+        {
+          "day_of_week": 5,
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
+        },
+        {
+          "day_of_week": 6,
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
+        }
+      ],
+      "specialOpeningHours": [],
+      "timeSlot": "",
+      "region": {
+        "countryId": "AU",
+        "regionId": 1711,
+        "region": "Victoria"
+      }
+    },
+    {
       "storeId": "1396",
       "distance": 724.94482334263,
       "name": "Derrimut",
