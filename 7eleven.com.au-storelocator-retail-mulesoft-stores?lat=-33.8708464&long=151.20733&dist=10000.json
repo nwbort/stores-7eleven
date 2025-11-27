@@ -35064,7 +35064,8 @@
         "ULP",
         "Diesel",
         "E10",
-        "PULP98"
+        "PULP98",
+        "PULP"
       ],
       "atm": false,
       "isBrandNewStore": false,
@@ -43316,38 +43317,38 @@
       "openingHours": [
         {
           "day_of_week": 0,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 1,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 2,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 3,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 4,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 5,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 6,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         }
       ],
       "specialOpeningHours": [],
