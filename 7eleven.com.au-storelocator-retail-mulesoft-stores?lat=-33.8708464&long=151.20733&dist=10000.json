@@ -28200,7 +28200,7 @@
       ],
       "atm": true,
       "isBrandNewStore": false,
-      "isFranchiseOpp": true,
+      "isFranchiseOpp": false,
       "franchiseSuburb": "",
       "franchiseEstimatedCost": "652006",
       "allowStoreDelivery": false,
@@ -28208,37 +28208,37 @@
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -30142,6 +30142,103 @@
         "countryId": "AU",
         "regionId": 1711,
         "region": "Victoria"
+      },
+      "hideFromStorelocator": false
+    },
+    {
+      "storeId": "4073",
+      "distance": 711.28395556598,
+      "name": "Heritage Park",
+      "location": [
+        -27.673393147101,
+        153.05301423218
+      ],
+      "centre": "",
+      "address": {
+        "address1": "118 Waller Road",
+        "address2": "",
+        "suburb": "Heritage Park",
+        "state": "QLD",
+        "postcode": "4118",
+        "extra": ""
+      },
+      "phone": "07 3806 7386",
+      "fax": "",
+      "allHours": true,
+      "isActive": true,
+      "isDigitalDisplay": false,
+      "isFuelStore": true,
+      "hasKiosk": false,
+      "features": [
+        "Carwash",
+        "CupRescue",
+        "TrailerHire",
+        "BenJerry",
+        "Krispykreme",
+        "Velocity",
+        "MCOPilot",
+        "PaPPilot",
+        "PaP",
+        "MCO",
+        "Smoothies&Frappés"
+      ],
+      "ParcelMate": [],
+      "fuelOptions": [
+        "ULP",
+        "Diesel",
+        "LPG",
+        "E10",
+        "PULP98"
+      ],
+      "atm": false,
+      "isBrandNewStore": false,
+      "isFranchiseOpp": false,
+      "franchiseSuburb": "",
+      "franchiseEstimatedCost": "922122",
+      "allowStoreDelivery": false,
+      "openingHours": [
+        {
+          "day_of_week": 0,
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
+        },
+        {
+          "day_of_week": 1,
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
+        },
+        {
+          "day_of_week": 2,
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
+        },
+        {
+          "day_of_week": 3,
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
+        },
+        {
+          "day_of_week": 4,
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
+        },
+        {
+          "day_of_week": 5,
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
+        },
+        {
+          "day_of_week": 6,
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
+        }
+      ],
+      "specialOpeningHours": [],
+      "timeSlot": "",
+      "region": {
+        "countryId": "AU",
+        "regionId": 1714,
+        "region": "Queensland"
       },
       "hideFromStorelocator": false
     },
@@ -37805,15 +37902,17 @@
       "isFuelStore": true,
       "hasKiosk": false,
       "features": [
-        "CupRescue",
-        "TrailerHire",
-        "Alt Milk",
         "Krispykreme",
         "BenJerry",
+        "CupRescue",
+        "TrailerHire",
         "MCO",
         "Velocity",
         "MCOPilot",
+        "PaPPilot",
+        "PaP",
         "Hot Food",
+        "Alt Milk",
         "Smoothies&Frappés"
       ],
       "ParcelMate": [],
@@ -37834,37 +37933,37 @@
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -39140,13 +39239,15 @@
       "isFuelStore": true,
       "hasKiosk": false,
       "features": [
-        "CupRescue",
-        "Alt Milk",
         "Krispykreme",
         "BenJerry",
+        "CupRescue",
         "MCO",
         "Velocity",
         "MCOPilot",
+        "PaPPilot",
+        "PaP",
+        "Alt Milk",
         "Smoothies&Frappés"
       ],
       "ParcelMate": [],
@@ -39166,37 +39267,37 @@
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -43222,38 +43323,38 @@
       "openingHours": [
         {
           "day_of_week": 0,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 1,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 2,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 3,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 4,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 5,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 6,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         }
       ],
       "specialOpeningHours": [],
@@ -50480,13 +50581,15 @@
       "isFuelStore": true,
       "hasKiosk": false,
       "features": [
-        "CupRescue",
-        "Alt Milk",
         "Krispykreme",
         "BenJerry",
+        "CupRescue",
         "MCO",
         "Velocity",
-        "MCOPilot"
+        "MCOPilot",
+        "PaPPilot",
+        "PaP",
+        "Alt Milk"
       ],
       "ParcelMate": [],
       "fuelOptions": [
@@ -50506,37 +50609,37 @@
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -62562,9 +62665,11 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
-        "Alt Milk",
         "MCO",
         "MCOPilot",
+        "PaPPilot",
+        "PaP",
+        "Alt Milk",
         "Smoothies&Frappés"
       ],
       "ParcelMate": [],
@@ -62585,37 +62690,37 @@
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -63474,10 +63579,12 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
-        "Alt Milk",
         "MCO",
         "MCOPilot",
+        "PaPPilot",
+        "PaP",
         "Hot Food",
+        "Alt Milk",
         "Smoothies&Frappés"
       ],
       "ParcelMate": [],
@@ -63498,37 +63605,37 @@
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
