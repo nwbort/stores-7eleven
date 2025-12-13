@@ -53487,37 +53487,37 @@
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         }
       ],
       "specialOpeningHours": [],
@@ -70439,7 +70439,7 @@
       ],
       "centre": "",
       "address": {
-        "address1": "Drumpellier Drive",
+        "address1": "21 Repton Street",
         "address2": "",
         "suburb": "Dayton",
         "state": "WA",
