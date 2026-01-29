@@ -68797,38 +68797,38 @@
       "openingHours": [
         {
           "day_of_week": 0,
-          "start_time": "7:00 am",
-          "end_time": "7:00 pm"
+          "start_time": "5:30 am",
+          "end_time": "10:30 pm"
         },
         {
           "day_of_week": 1,
-          "start_time": "7:00 am",
-          "end_time": "7:00 pm"
+          "start_time": "5:30 am",
+          "end_time": "10:30 pm"
         },
         {
           "day_of_week": 2,
-          "start_time": "7:00 am",
-          "end_time": "7:00 pm"
+          "start_time": "5:30 am",
+          "end_time": "10:30 pm"
         },
         {
           "day_of_week": 3,
-          "start_time": "7:00 am",
-          "end_time": "7:00 pm"
+          "start_time": "5:30 am",
+          "end_time": "10:30 pm"
         },
         {
           "day_of_week": 4,
-          "start_time": "7:00 am",
-          "end_time": "7:00 pm"
+          "start_time": "5:30 am",
+          "end_time": "10:30 pm"
         },
         {
           "day_of_week": 5,
-          "start_time": "7:00 am",
-          "end_time": "7:00 pm"
+          "start_time": "5:30 am",
+          "end_time": "10:30 pm"
         },
         {
           "day_of_week": 6,
-          "start_time": "7:00 am",
-          "end_time": "7:00 pm"
+          "start_time": "5:30 am",
+          "end_time": "10:30 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -68879,38 +68879,38 @@
       "openingHours": [
         {
           "day_of_week": 0,
-          "start_time": "7:00 am",
-          "end_time": "7:00 pm"
+          "start_time": "5:30 am",
+          "end_time": "10:30 pm"
         },
         {
           "day_of_week": 1,
-          "start_time": "7:00 am",
-          "end_time": "7:00 pm"
+          "start_time": "5:30 am",
+          "end_time": "10:30 pm"
         },
         {
           "day_of_week": 2,
-          "start_time": "7:00 am",
-          "end_time": "7:00 pm"
+          "start_time": "5:30 am",
+          "end_time": "10:30 pm"
         },
         {
           "day_of_week": 3,
-          "start_time": "7:00 am",
-          "end_time": "7:00 pm"
+          "start_time": "5:30 am",
+          "end_time": "10:30 pm"
         },
         {
           "day_of_week": 4,
-          "start_time": "7:00 am",
-          "end_time": "7:00 pm"
+          "start_time": "5:30 am",
+          "end_time": "10:30 pm"
         },
         {
           "day_of_week": 5,
-          "start_time": "7:00 am",
-          "end_time": "7:00 pm"
+          "start_time": "5:30 am",
+          "end_time": "10:30 pm"
         },
         {
           "day_of_week": 6,
-          "start_time": "7:00 am",
-          "end_time": "7:00 pm"
+          "start_time": "5:30 am",
+          "end_time": "10:30 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -69010,6 +69010,90 @@
         "countryId": "AU",
         "regionId": 1723,
         "region": "Western Australia"
+      },
+      "hideFromStorelocator": false
+    },
+    {
+      "storeId": "1402",
+      "distance": 702.90051576939,
+      "name": "Rowville",
+      "location": [
+        -37.926527339881,
+        145.217421968
+      ],
+      "centre": "",
+      "address": {
+        "address1": "812 Wellington Road",
+        "address2": "",
+        "suburb": "Rowville",
+        "state": "VIC",
+        "postcode": "3180",
+        "extra": ""
+      },
+      "phone": "0439359570",
+      "fax": "",
+      "allHours": true,
+      "isActive": true,
+      "isDigitalDisplay": false,
+      "isFuelStore": true,
+      "hasKiosk": false,
+      "features": [
+        "MCO",
+        "MCOPilot",
+        "PaPPilot",
+        "PaP"
+      ],
+      "ParcelMate": [],
+      "fuelOptions": [],
+      "atm": false,
+      "isBrandNewStore": false,
+      "isFranchiseOpp": false,
+      "franchiseSuburb": "",
+      "franchiseEstimatedCost": "",
+      "allowStoreDelivery": false,
+      "openingHours": [
+        {
+          "day_of_week": 0,
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
+        },
+        {
+          "day_of_week": 1,
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
+        },
+        {
+          "day_of_week": 2,
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
+        },
+        {
+          "day_of_week": 3,
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
+        },
+        {
+          "day_of_week": 4,
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
+        },
+        {
+          "day_of_week": 5,
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
+        },
+        {
+          "day_of_week": 6,
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
+        }
+      ],
+      "specialOpeningHours": [],
+      "timeSlot": "",
+      "region": {
+        "countryId": "AU",
+        "regionId": 1711,
+        "region": "Victoria"
       },
       "hideFromStorelocator": false
     },
