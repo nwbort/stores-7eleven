@@ -9116,37 +9116,37 @@
         {
           "day_of_week": 0,
           "start_time": "12:00 am",
-          "end_time": "12:00 am"
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 am",
-          "end_time": "12:00 am"
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 am",
-          "end_time": "12:00 am"
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 am",
-          "end_time": "12:00 am"
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 am",
-          "end_time": "12:00 am"
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 am",
-          "end_time": "12:00 am"
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 am",
-          "end_time": "12:00 am"
+          "end_time": "11:59 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -18173,38 +18173,38 @@
       "openingHours": [
         {
           "day_of_week": 0,
-          "start_time": "12:00 am",
-          "end_time": "12:00 am"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 1,
-          "start_time": "12:00 am",
-          "end_time": "12:00 am"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 2,
-          "start_time": "12:00 am",
-          "end_time": "12:00 am"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 3,
-          "start_time": "12:00 am",
-          "end_time": "12:00 am"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 4,
-          "start_time": "12:00 am",
-          "end_time": "12:00 am"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 5,
-          "start_time": "12:00 am",
-          "end_time": "12:00 am"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 6,
-          "start_time": "12:00 am",
-          "end_time": "12:00 am"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         }
       ],
       "specialOpeningHours": [],
@@ -25321,37 +25321,37 @@
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         }
       ],
       "specialOpeningHours": [],
@@ -53803,37 +53803,37 @@
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         }
       ],
       "specialOpeningHours": [],
@@ -69836,7 +69836,7 @@
         "postcode": "3059",
         "extra": ""
       },
-      "phone": "",
+      "phone": "0499111803",
       "fax": "",
       "allHours": true,
       "isActive": true,
@@ -69866,37 +69866,37 @@
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         }
       ],
       "specialOpeningHours": [],
@@ -71136,252 +71136,6 @@
         "countryId": "AU",
         "regionId": 1708,
         "region": "New South Wales"
-      },
-      "hideFromStorelocator": false
-    },
-    {
-      "storeId": "1507",
-      "distance": 760.84958787638,
-      "name": "Rye",
-      "location": [
-        -38.370128494706,
-        144.81997356093
-      ],
-      "centre": "",
-      "address": {
-        "address1": "2449 Point Nepean Rd",
-        "address2": "",
-        "suburb": "Rye",
-        "state": "VIC",
-        "postcode": "3941",
-        "extra": ""
-      },
-      "phone": "",
-      "fax": "",
-      "allHours": false,
-      "isActive": true,
-      "isDigitalDisplay": false,
-      "isFuelStore": false,
-      "hasKiosk": true,
-      "features": [
-        "MCO",
-        "MCOPilot"
-      ],
-      "ParcelMate": [],
-      "fuelOptions": [],
-      "atm": false,
-      "isBrandNewStore": false,
-      "isFranchiseOpp": false,
-      "franchiseSuburb": "",
-      "franchiseEstimatedCost": "",
-      "allowStoreDelivery": false,
-      "openingHours": [
-        {
-          "day_of_week": 0,
-          "start_time": "8:00 am",
-          "end_time": "8:00 pm"
-        },
-        {
-          "day_of_week": 1,
-          "start_time": "8:00 am",
-          "end_time": "8:00 pm"
-        },
-        {
-          "day_of_week": 2,
-          "start_time": "8:00 am",
-          "end_time": "8:00 pm"
-        },
-        {
-          "day_of_week": 3,
-          "start_time": "8:00 am",
-          "end_time": "8:00 pm"
-        },
-        {
-          "day_of_week": 4,
-          "start_time": "8:00 am",
-          "end_time": "8:00 pm"
-        },
-        {
-          "day_of_week": 5,
-          "start_time": "8:00 am",
-          "end_time": "8:00 pm"
-        },
-        {
-          "day_of_week": 6,
-          "start_time": "8:00 am",
-          "end_time": "8:00 pm"
-        }
-      ],
-      "specialOpeningHours": [],
-      "timeSlot": "",
-      "region": {
-        "countryId": "AU",
-        "regionId": 1711,
-        "region": "Victoria"
-      },
-      "hideFromStorelocator": false
-    },
-    {
-      "storeId": "1508",
-      "distance": 764.15626639403,
-      "name": "Sorrento",
-      "location": [
-        -38.339355714139,
-        144.73962199699
-      ],
-      "centre": "",
-      "address": {
-        "address1": "60 Kerferd Ave",
-        "address2": "",
-        "suburb": "Sorrento",
-        "state": "VIC",
-        "postcode": "3943",
-        "extra": ""
-      },
-      "phone": "",
-      "fax": "",
-      "allHours": false,
-      "isActive": true,
-      "isDigitalDisplay": false,
-      "isFuelStore": false,
-      "hasKiosk": true,
-      "features": [
-        "MCO",
-        "MCOPilot"
-      ],
-      "ParcelMate": [],
-      "fuelOptions": [],
-      "atm": false,
-      "isBrandNewStore": false,
-      "isFranchiseOpp": false,
-      "franchiseSuburb": "",
-      "franchiseEstimatedCost": "",
-      "allowStoreDelivery": false,
-      "openingHours": [
-        {
-          "day_of_week": 0,
-          "start_time": "8:00 am",
-          "end_time": "8:00 pm"
-        },
-        {
-          "day_of_week": 1,
-          "start_time": "8:00 am",
-          "end_time": "8:00 pm"
-        },
-        {
-          "day_of_week": 2,
-          "start_time": "8:00 am",
-          "end_time": "8:00 pm"
-        },
-        {
-          "day_of_week": 3,
-          "start_time": "8:00 am",
-          "end_time": "8:00 pm"
-        },
-        {
-          "day_of_week": 4,
-          "start_time": "8:00 am",
-          "end_time": "8:00 pm"
-        },
-        {
-          "day_of_week": 5,
-          "start_time": "8:00 am",
-          "end_time": "8:00 pm"
-        },
-        {
-          "day_of_week": 6,
-          "start_time": "8:00 am",
-          "end_time": "8:00 pm"
-        }
-      ],
-      "specialOpeningHours": [],
-      "timeSlot": "",
-      "region": {
-        "countryId": "AU",
-        "regionId": 1711,
-        "region": "Victoria"
-      },
-      "hideFromStorelocator": false
-    },
-    {
-      "storeId": "1509",
-      "distance": 735.49400249915,
-      "name": "Mornington",
-      "location": [
-        -38.219452261479,
-        145.03831671048
-      ],
-      "centre": "",
-      "address": {
-        "address1": "91 Main St",
-        "address2": "",
-        "suburb": "Mornington",
-        "state": "VIC",
-        "postcode": "3931",
-        "extra": ""
-      },
-      "phone": "",
-      "fax": "",
-      "allHours": false,
-      "isActive": true,
-      "isDigitalDisplay": false,
-      "isFuelStore": false,
-      "hasKiosk": true,
-      "features": [
-        "MCO",
-        "MCOPilot"
-      ],
-      "ParcelMate": [],
-      "fuelOptions": [],
-      "atm": false,
-      "isBrandNewStore": false,
-      "isFranchiseOpp": false,
-      "franchiseSuburb": "",
-      "franchiseEstimatedCost": "",
-      "allowStoreDelivery": false,
-      "openingHours": [
-        {
-          "day_of_week": 0,
-          "start_time": "8:00 am",
-          "end_time": "8:00 pm"
-        },
-        {
-          "day_of_week": 1,
-          "start_time": "8:00 am",
-          "end_time": "8:00 pm"
-        },
-        {
-          "day_of_week": 2,
-          "start_time": "8:00 am",
-          "end_time": "8:00 pm"
-        },
-        {
-          "day_of_week": 3,
-          "start_time": "8:00 am",
-          "end_time": "8:00 pm"
-        },
-        {
-          "day_of_week": 4,
-          "start_time": "8:00 am",
-          "end_time": "8:00 pm"
-        },
-        {
-          "day_of_week": 5,
-          "start_time": "8:00 am",
-          "end_time": "8:00 pm"
-        },
-        {
-          "day_of_week": 6,
-          "start_time": "8:00 am",
-          "end_time": "8:00 pm"
-        }
-      ],
-      "specialOpeningHours": [],
-      "timeSlot": "",
-      "region": {
-        "countryId": "AU",
-        "regionId": 1711,
-        "region": "Victoria"
       },
       "hideFromStorelocator": false
     }
