@@ -17232,45 +17232,45 @@
       ],
       "atm": false,
       "isBrandNewStore": false,
-      "isFranchiseOpp": true,
+      "isFranchiseOpp": false,
       "franchiseSuburb": "",
       "franchiseEstimatedCost": "262568",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 1,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 2,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 3,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 4,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 5,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 6,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "12:00 am"
         }
       ],
       "specialOpeningHours": [],
@@ -53526,38 +53526,38 @@
       "openingHours": [
         {
           "day_of_week": 0,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 1,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 2,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 3,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 4,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 5,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 6,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -59307,91 +59307,6 @@
         "region": "New South Wales"
       },
       "hideFromStorelocator": false
-    },
-    {
-      "storeId": "2168",
-      "distance": 8.5899830447112,
-      "name": "Chatswood West",
-      "location": [
-        -33.79696,
-        151.18018
-      ],
-      "centre": "",
-      "address": {
-        "address1": "457 Victoria Avenue",
-        "address2": "",
-        "suburb": "Chatswood West",
-        "state": "NSW",
-        "postcode": "2067",
-        "extra": ""
-      },
-      "phone": "02 9904 7539",
-      "fax": "",
-      "allHours": true,
-      "isActive": true,
-      "isDigitalDisplay": false,
-      "isFuelStore": false,
-      "hasKiosk": false,
-      "features": [
-        "BenJerry",
-        "Krispykreme",
-        "Velocity",
-        "MCOPilot",
-        "PaPPilot",
-        "MCO"
-      ],
-      "ParcelMate": [],
-      "fuelOptions": [],
-      "atm": false,
-      "isBrandNewStore": false,
-      "isFranchiseOpp": false,
-      "franchiseSuburb": "",
-      "franchiseEstimatedCost": "",
-      "allowStoreDelivery": false,
-      "openingHours": [
-        {
-          "day_of_week": 0,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
-        },
-        {
-          "day_of_week": 1,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
-        },
-        {
-          "day_of_week": 2,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
-        },
-        {
-          "day_of_week": 3,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
-        },
-        {
-          "day_of_week": 4,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
-        },
-        {
-          "day_of_week": 5,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
-        },
-        {
-          "day_of_week": 6,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
-        }
-      ],
-      "specialOpeningHours": [],
-      "timeSlot": "",
-      "region": {
-        "countryId": "AU",
-        "regionId": 1708,
-        "region": "New South Wales"
-      }
     },
     {
       "storeId": "1121",
@@ -68334,7 +68249,7 @@
         "postcode": "2177",
         "extra": ""
       },
-      "phone": "0457 437 034",
+      "phone": "0296102508",
       "fax": "",
       "allHours": true,
       "isActive": true,
