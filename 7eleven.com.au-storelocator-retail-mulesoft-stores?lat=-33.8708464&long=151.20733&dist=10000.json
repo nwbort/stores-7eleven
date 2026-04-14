@@ -31806,38 +31806,38 @@
       "openingHours": [
         {
           "day_of_week": 0,
-          "start_time": "12:00 am",
-          "end_time": "12:00 am"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 1,
-          "start_time": "12:00 am",
-          "end_time": "12:00 am"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 2,
-          "start_time": "12:00 am",
-          "end_time": "12:00 am"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 3,
-          "start_time": "12:00 am",
-          "end_time": "12:00 am"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 4,
-          "start_time": "12:00 am",
-          "end_time": "12:00 am"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 5,
-          "start_time": "12:00 am",
-          "end_time": "12:00 am"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 6,
-          "start_time": "12:00 am",
-          "end_time": "12:00 am"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         }
       ],
       "specialOpeningHours": [],
@@ -36074,94 +36074,6 @@
         "regionId": 1711,
         "region": "Victoria"
       }
-    },
-    {
-      "storeId": "1135",
-      "distance": 712.37677698726,
-      "name": "Bourke Street",
-      "location": [
-        -37.81175994602,
-        144.97218258551
-      ],
-      "centre": "",
-      "address": {
-        "address1": "35 Bourke Street",
-        "address2": "",
-        "suburb": "Melbourne",
-        "state": "VIC",
-        "postcode": "3000",
-        "extra": ""
-      },
-      "phone": "03 9654 2924",
-      "fax": "",
-      "allHours": true,
-      "isActive": true,
-      "isDigitalDisplay": false,
-      "isFuelStore": false,
-      "hasKiosk": false,
-      "features": [
-        "CupRescue",
-        "Alt Milk",
-        "BenJerry",
-        "Krispykreme",
-        "Velocity",
-        "MCOPilot",
-        "PaPPilot",
-        "MCO"
-      ],
-      "ParcelMate": [],
-      "fuelOptions": [],
-      "atm": true,
-      "isBrandNewStore": false,
-      "isFranchiseOpp": false,
-      "franchiseSuburb": "CBD",
-      "franchiseEstimatedCost": "216000",
-      "allowStoreDelivery": false,
-      "openingHours": [
-        {
-          "day_of_week": 0,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
-        },
-        {
-          "day_of_week": 1,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
-        },
-        {
-          "day_of_week": 2,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
-        },
-        {
-          "day_of_week": 3,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
-        },
-        {
-          "day_of_week": 4,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
-        },
-        {
-          "day_of_week": 5,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
-        },
-        {
-          "day_of_week": 6,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
-        }
-      ],
-      "specialOpeningHours": [],
-      "timeSlot": "",
-      "region": {
-        "countryId": "AU",
-        "regionId": 1711,
-        "region": "Victoria"
-      },
-      "hideFromStorelocator": false
     },
     {
       "storeId": "1137",
@@ -53526,38 +53438,38 @@
       "openingHours": [
         {
           "day_of_week": 0,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 1,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 2,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 3,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 4,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 5,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 6,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         }
       ],
       "specialOpeningHours": [],
@@ -70976,11 +70888,11 @@
     },
     {
       "storeId": "2380",
-      "distance": 34.942663193541,
+      "distance": 35.081492244694,
       "name": "Rouse Hill",
       "location": [
-        -33.662052095986,
-        150.92481969666
+        -33.661505595168,
+        150.92339582905
       ],
       "centre": "",
       "address": {
@@ -71022,37 +70934,37 @@
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
