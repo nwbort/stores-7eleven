@@ -24025,95 +24025,6 @@
       "hideFromStorelocator": false
     },
     {
-      "storeId": "2085",
-      "distance": 19.867159147591,
-      "name": "Church Street",
-      "location": [
-        -33.813658752422,
-        151.00353082507
-      ],
-      "centre": "",
-      "address": {
-        "address1": "262 Church Street",
-        "address2": "",
-        "suburb": "Parramatta",
-        "state": "NSW",
-        "postcode": "2150",
-        "extra": ""
-      },
-      "phone": "02 9635 5890",
-      "fax": "",
-      "allHours": true,
-      "isActive": true,
-      "isDigitalDisplay": false,
-      "isFuelStore": false,
-      "hasKiosk": false,
-      "features": [
-        "CupRescue",
-        "Alt Milk",
-        "BenJerry",
-        "Krispykreme",
-        "Velocity",
-        "MCOPilot",
-        "PaPPilot",
-        "Smoothies&Frappés",
-        "MCO"
-      ],
-      "ParcelMate": [],
-      "fuelOptions": [],
-      "atm": false,
-      "isBrandNewStore": false,
-      "isFranchiseOpp": false,
-      "franchiseSuburb": "",
-      "franchiseEstimatedCost": "456000",
-      "allowStoreDelivery": false,
-      "openingHours": [
-        {
-          "day_of_week": 0,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
-        },
-        {
-          "day_of_week": 1,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
-        },
-        {
-          "day_of_week": 2,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
-        },
-        {
-          "day_of_week": 3,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
-        },
-        {
-          "day_of_week": 4,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
-        },
-        {
-          "day_of_week": 5,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
-        },
-        {
-          "day_of_week": 6,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
-        }
-      ],
-      "specialOpeningHours": [],
-      "timeSlot": "",
-      "region": {
-        "countryId": "AU",
-        "regionId": 1708,
-        "region": "New South Wales"
-      },
-      "hideFromStorelocator": false
-    },
-    {
       "storeId": "2091",
       "distance": 31.006282846742,
       "name": "Kings Park",
@@ -32741,45 +32652,45 @@
       ],
       "atm": true,
       "isBrandNewStore": false,
-      "isFranchiseOpp": false,
+      "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseEstimatedCost": "789880",
+      "franchiseEstimatedCost": "565707",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
