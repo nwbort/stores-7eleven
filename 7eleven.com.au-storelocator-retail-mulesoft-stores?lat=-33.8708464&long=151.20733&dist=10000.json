@@ -1651,37 +1651,37 @@
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         }
       ],
       "specialOpeningHours": [],
@@ -9269,6 +9269,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -9698,7 +9699,7 @@
     {
       "storeId": "4150",
       "distance": 820.27152986013,
-      "name": "Landmark Resort",
+      "name": "Mooloolaba Esplanade",
       "location": [
         -26.680875631366,
         153.12054227605
@@ -9720,6 +9721,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         "Krispykreme",
         "BenJerry",
         "Velocity",
@@ -9740,37 +9742,37 @@
         {
           "day_of_week": 0,
           "start_time": "5:00 am",
-          "end_time": "11:00 am"
+          "end_time": "11:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "5:00 am",
-          "end_time": "11:00 am"
+          "end_time": "11:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "5:00 am",
-          "end_time": "11:00 am"
+          "end_time": "11:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "5:00 am",
-          "end_time": "11:00 am"
+          "end_time": "11:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "5:00 am",
-          "end_time": "11:00 am"
+          "end_time": "11:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "5:00 am",
-          "end_time": "11:00 am"
+          "end_time": "11:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "5:00 am",
-          "end_time": "11:00 am"
+          "end_time": "11:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -10282,6 +10284,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -10369,6 +10372,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -11766,6 +11770,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -12518,6 +12523,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -13448,6 +13454,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -23288,7 +23295,7 @@
     {
       "storeId": "2067",
       "distance": 10.432320157255,
-      "name": "Strathfield South",
+      "name": "Strathfield",
       "location": [
         -33.873036010956,
         151.09436334052
@@ -23331,38 +23338,38 @@
       "openingHours": [
         {
           "day_of_week": 0,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 1,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 2,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 3,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 4,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 5,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 6,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -23677,6 +23684,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         "Krispykreme",
         "BenJerry",
         "MCO",
@@ -39555,6 +39563,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -56978,6 +56987,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         "Krispykreme",
         "BenJerry",
         "MCO",
@@ -60340,6 +60350,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         "MCO",
         "Velocity",
         "MCOPilot",
@@ -64072,6 +64083,7 @@
       "isFuelStore": true,
       "hasKiosk": false,
       "features": [
+        " ",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -64320,7 +64332,7 @@
     {
       "storeId": "4328",
       "distance": 686.32490523499,
-      "name": "Cavil Avenue",
+      "name": "Cavill Avenue",
       "location": [
         -27.99959,
         153.42916
@@ -64342,6 +64354,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -64358,38 +64371,38 @@
       "openingHours": [
         {
           "day_of_week": 0,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 1,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 2,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 3,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 4,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 5,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 6,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -65401,7 +65414,7 @@
     {
       "storeId": "1463",
       "distance": 714.90180855431,
-      "name": "ANZ Head Office MM",
+      "name": "ANZ Head Office",
       "location": [
         -37.82166,
         144.94575
@@ -65423,6 +65436,7 @@
       "isFuelStore": false,
       "hasKiosk": true,
       "features": [
+        " ",
         "Krispykreme",
         "MCO",
         "Velocity",
@@ -66113,84 +66127,6 @@
         "region": "Victoria"
       },
       "hideFromStorelocator": false
-    },
-    {
-      "storeId": "2396",
-      "distance": 13.077600600592,
-      "name": "Beak & Johnson Greenacre MMV",
-      "location": [
-        -33.90213,
-        151.07076
-      ],
-      "centre": "",
-      "address": {
-        "address1": "43 Wentworth Street",
-        "address2": "",
-        "suburb": "Greenacre",
-        "state": "NSW",
-        "postcode": "2190",
-        "extra": ""
-      },
-      "phone": "",
-      "fax": "",
-      "allHours": true,
-      "isActive": true,
-      "isDigitalDisplay": false,
-      "isFuelStore": false,
-      "hasKiosk": false,
-      "features": [],
-      "ParcelMate": [],
-      "fuelOptions": [],
-      "atm": false,
-      "isBrandNewStore": false,
-      "isFranchiseOpp": false,
-      "franchiseSuburb": "",
-      "franchiseEstimatedCost": "",
-      "allowStoreDelivery": false,
-      "openingHours": [
-        {
-          "day_of_week": 0,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
-        },
-        {
-          "day_of_week": 1,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
-        },
-        {
-          "day_of_week": 2,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
-        },
-        {
-          "day_of_week": 3,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
-        },
-        {
-          "day_of_week": 4,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
-        },
-        {
-          "day_of_week": 5,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
-        },
-        {
-          "day_of_week": 6,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
-        }
-      ],
-      "specialOpeningHours": [],
-      "timeSlot": "",
-      "region": {
-        "countryId": "AU",
-        "regionId": 1708,
-        "region": "New South Wales"
-      }
     },
     {
       "storeId": "4346",
@@ -66913,88 +66849,9 @@
       "hideFromStorelocator": false
     },
     {
-      "storeId": "1479",
-      "distance": 697.8504412677,
-      "name": "St Monica's College Epping MMV",
-      "location": [
-        -37.65119,
-        145.02988
-      ],
-      "centre": "",
-      "address": {
-        "address1": "16 Davisson Street",
-        "address2": "",
-        "suburb": "Epping",
-        "state": "VIC",
-        "postcode": "3076",
-        "extra": ""
-      },
-      "phone": "",
-      "fax": "",
-      "allHours": true,
-      "isActive": true,
-      "isDigitalDisplay": false,
-      "isFuelStore": false,
-      "hasKiosk": false,
-      "features": [],
-      "ParcelMate": [],
-      "fuelOptions": [],
-      "atm": false,
-      "isBrandNewStore": false,
-      "isFranchiseOpp": false,
-      "franchiseSuburb": "",
-      "franchiseEstimatedCost": "",
-      "allowStoreDelivery": false,
-      "openingHours": [
-        {
-          "day_of_week": 0,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
-        },
-        {
-          "day_of_week": 1,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
-        },
-        {
-          "day_of_week": 2,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
-        },
-        {
-          "day_of_week": 3,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
-        },
-        {
-          "day_of_week": 4,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
-        },
-        {
-          "day_of_week": 5,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
-        },
-        {
-          "day_of_week": 6,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
-        }
-      ],
-      "specialOpeningHours": [],
-      "timeSlot": "",
-      "region": {
-        "countryId": "AU",
-        "regionId": 1711,
-        "region": "Victoria"
-      },
-      "hideFromStorelocator": true
-    },
-    {
       "storeId": "1486",
       "distance": 640.4131932145,
-      "name": "Opal Maryvale MM",
+      "name": "Opal Maryvale",
       "location": [
         -38.18935,
         146.49198
@@ -67016,6 +66873,7 @@
       "isFuelStore": false,
       "hasKiosk": true,
       "features": [
+        " ",
         "MCO",
         "MCOPilot"
       ],
@@ -68445,6 +68303,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         "MCO",
         "MCOPilot"
       ],
@@ -68527,6 +68386,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         "MCO",
         "MCOPilot"
       ],
@@ -68700,6 +68560,7 @@
       "isFuelStore": true,
       "hasKiosk": false,
       "features": [
+        " ",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -68880,6 +68741,7 @@
       "isFuelStore": true,
       "hasKiosk": false,
       "features": [
+        " ",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -68970,6 +68832,7 @@
       "isFuelStore": true,
       "hasKiosk": false,
       "features": [
+        " ",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -69151,6 +69014,7 @@
       "isFuelStore": true,
       "hasKiosk": false,
       "features": [
+        " ",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -69308,7 +69172,7 @@
     {
       "storeId": "4378",
       "distance": 732.74745529244,
-      "name": "245 Albert St",
+      "name": "249 Albert St",
       "location": [
         -27.468759790611,
         153.02469642357
@@ -69322,14 +69186,16 @@
         "postcode": "4000",
         "extra": ""
       },
-      "phone": "",
+      "phone": "0461348584",
       "fax": "",
-      "allHours": false,
+      "allHours": true,
       "isActive": true,
       "isDigitalDisplay": false,
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        "CupRescue",
+        "Alt Milk",
         "MCO",
         "MCOPilot"
       ],
@@ -69344,38 +69210,38 @@
       "openingHours": [
         {
           "day_of_week": 0,
-          "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 1,
-          "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 2,
-          "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 3,
-          "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 4,
-          "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 5,
-          "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 6,
-          "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -69593,6 +69459,7 @@
       "isFuelStore": true,
       "hasKiosk": false,
       "features": [
+        " ",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -69956,6 +69823,7 @@
       "isFuelStore": true,
       "hasKiosk": false,
       "features": [
+        " ",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -70046,6 +69914,7 @@
       "isFuelStore": true,
       "hasKiosk": false,
       "features": [
+        " ",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -70392,6 +70261,7 @@
       "isFuelStore": true,
       "hasKiosk": false,
       "features": [
+        " ",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -70481,6 +70351,7 @@
       "isFuelStore": true,
       "hasKiosk": false,
       "features": [
+        " ",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -70570,6 +70441,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         "MCO",
         "MCOPilot"
       ],
@@ -70652,6 +70524,7 @@
       "isFuelStore": false,
       "hasKiosk": true,
       "features": [
+        " ",
         "MCO",
         "MCOPilot"
       ],
@@ -70734,6 +70607,7 @@
       "isFuelStore": true,
       "hasKiosk": false,
       "features": [
+        " ",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -70823,6 +70697,7 @@
       "isFuelStore": true,
       "hasKiosk": false,
       "features": [
+        " ",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -70913,6 +70788,7 @@
       "isFuelStore": true,
       "hasKiosk": false,
       "features": [
+        " ",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -70980,7 +70856,7 @@
     {
       "storeId": "1475",
       "distance": 598.44657449235,
-      "name": "Shepperton South",
+      "name": "Shepparton South",
       "location": [
         -36.398415229023,
         145.3952295239
@@ -70989,12 +70865,12 @@
       "address": {
         "address1": "1/608 Wyndham Street",
         "address2": "",
-        "suburb": "Shepperton",
+        "suburb": "Shepparton",
         "state": "VIC",
         "postcode": "3630",
         "extra": ""
       },
-      "phone": "",
+      "phone": "0447395160",
       "fax": "",
       "allHours": true,
       "isActive": true,
@@ -71002,11 +70878,11 @@
       "isFuelStore": true,
       "hasKiosk": false,
       "features": [
+        "Alt Milk",
         "MCO",
         "MCOPilot",
         "PaPPilot",
-        "PaP",
-        "Alt Milk"
+        "PaP"
       ],
       "ParcelMate": [],
       "fuelOptions": [
@@ -71025,37 +70901,37 @@
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         }
       ],
       "specialOpeningHours": [],
