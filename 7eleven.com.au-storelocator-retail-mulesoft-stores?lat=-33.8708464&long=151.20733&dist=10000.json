@@ -9309,6 +9309,7 @@
         " ",
         " ",
         " ",
+        " ",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -9760,6 +9761,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -10402,6 +10404,7 @@
         " ",
         " ",
         " ",
+        " ",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -10489,6 +10492,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -11966,6 +11970,7 @@
         " ",
         " ",
         " ",
+        " ",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -12718,6 +12723,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -13688,6 +13694,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -23957,6 +23964,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -34579,43 +34587,43 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseEstimatedCost": "426488",
+      "franchiseEstimatedCost": "391488",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -37398,101 +37406,6 @@
       "hideFromStorelocator": false
     },
     {
-      "storeId": "1149",
-      "distance": 712.00889231824,
-      "name": "Keysborough",
-      "location": [
-        -37.990896627463,
-        145.14944441773
-      ],
-      "centre": "",
-      "address": {
-        "address1": "511 Cheltenham Road",
-        "address2": "",
-        "suburb": "Keysborough",
-        "state": "VIC",
-        "postcode": "3173",
-        "extra": ""
-      },
-      "phone": "03 9701 5189",
-      "fax": "",
-      "allHours": true,
-      "isActive": true,
-      "isDigitalDisplay": false,
-      "isFuelStore": true,
-      "hasKiosk": false,
-      "features": [
-        "Carwash",
-        "CupRescue",
-        "Alt Milk",
-        "Krispykreme",
-        "BenJerry",
-        "Velocity",
-        "MCOPilot",
-        "PaPPilot",
-        "PaP",
-        "MCO",
-        "Smoothies&Frappés"
-      ],
-      "ParcelMate": [],
-      "fuelOptions": [
-        "ULP",
-        "Diesel",
-        "LPG",
-        "PULP98"
-      ],
-      "atm": false,
-      "isBrandNewStore": false,
-      "isFranchiseOpp": false,
-      "franchiseSuburb": "Keysborough",
-      "franchiseEstimatedCost": "317535",
-      "allowStoreDelivery": false,
-      "openingHours": [
-        {
-          "day_of_week": 0,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
-        },
-        {
-          "day_of_week": 1,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
-        },
-        {
-          "day_of_week": 2,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
-        },
-        {
-          "day_of_week": 3,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
-        },
-        {
-          "day_of_week": 4,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
-        },
-        {
-          "day_of_week": 5,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
-        },
-        {
-          "day_of_week": 6,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
-        }
-      ],
-      "specialOpeningHours": [],
-      "timeSlot": "",
-      "region": {
-        "countryId": "AU",
-        "regionId": 1711,
-        "region": "Victoria"
-      }
-    },
-    {
       "storeId": "1150",
       "distance": 718.67522221748,
       "name": "Carrum Downs",
@@ -39788,6 +39701,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -53330,43 +53244,43 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseEstimatedCost": "1038893",
+      "franchiseEstimatedCost": "1042193",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -60693,6 +60607,7 @@
         " ",
         " ",
         " ",
+        " ",
         "MCO",
         "Velocity",
         "MCOPilot",
@@ -64465,6 +64380,7 @@
         " ",
         " ",
         " ",
+        " ",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -64735,6 +64651,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -65856,6 +65773,7 @@
       "isFuelStore": false,
       "hasKiosk": true,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -67332,6 +67250,7 @@
       "isFuelStore": false,
       "hasKiosk": true,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -68943,6 +68862,7 @@
         " ",
         " ",
         " ",
+        " ",
         "MCO",
         "MCOPilot"
       ],
@@ -69025,6 +68945,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -69368,6 +69289,7 @@
         " ",
         " ",
         " ",
+        " ",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -69457,6 +69379,7 @@
       "isFuelStore": true,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -69717,6 +69640,7 @@
         " ",
         " ",
         " ",
+        " ",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -69807,6 +69731,7 @@
       "isFuelStore": true,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -70120,6 +70045,7 @@
       "isFuelStore": true,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -70643,6 +70569,7 @@
         " ",
         " ",
         " ",
+        " ",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -71045,6 +70972,7 @@
         " ",
         " ",
         " ",
+        " ",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -71135,6 +71063,7 @@
       "isFuelStore": true,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -71561,6 +71490,7 @@
         " ",
         " ",
         " ",
+        " ",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -71650,6 +71580,7 @@
       "isFuelStore": true,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -71819,6 +71750,7 @@
         " ",
         " ",
         " ",
+        " ",
         "MCO",
         "MCOPilot"
       ],
@@ -71941,6 +71873,7 @@
         " ",
         " ",
         " ",
+        " ",
         "MCO",
         "MCOPilot"
       ],
@@ -72023,6 +71956,7 @@
       "isFuelStore": true,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -72191,6 +72125,7 @@
         " ",
         " ",
         " ",
+        " ",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -72281,6 +72216,7 @@
       "isFuelStore": true,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -72468,6 +72404,7 @@
       "isFuelStore": true,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -72722,6 +72659,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
