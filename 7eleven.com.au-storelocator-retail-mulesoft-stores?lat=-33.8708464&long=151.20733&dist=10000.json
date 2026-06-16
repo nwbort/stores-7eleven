@@ -596,6 +596,7 @@
       "features": [
         "CupRescue",
         "Alt Milk",
+        "Pizza",
         "Krispykreme",
         "BenJerry",
         "Velocity",
@@ -879,6 +880,8 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
+        "Fried Food",
+        "Pizza",
         "MCO",
         "Velocity",
         "MCOPilot",
@@ -1159,6 +1162,8 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
+        "Fried Food",
+        "Pizza",
         "MCO",
         "Velocity",
         "MCOPilot",
@@ -1532,6 +1537,8 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
+        "Fried Food",
+        "Pizza",
         "Krispykreme",
         "BenJerry",
         "Velocity",
@@ -1626,6 +1633,8 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
+        "Fried Food",
+        "Pizza",
         "Velocity",
         "MCOPilot",
         "PaPPilot",
@@ -2378,6 +2387,7 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
+        "Fried Food",
         "Velocity",
         "MCOPilot",
         "PaPPilot",
@@ -2471,6 +2481,8 @@
       "features": [
         "CupRescue",
         "Alt Milk",
+        "Fried Food",
+        "Pizza",
         "MCO",
         "Velocity",
         "MCOPilot",
@@ -2749,6 +2761,8 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
+        "Fried Food",
+        "Pizza",
         "Krispykreme",
         "MCO",
         "Velocity",
@@ -2934,6 +2948,8 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
+        "Fried Food",
+        "Pizza",
         "Krispykreme",
         "Velocity",
         "MCOPilot",
@@ -3874,6 +3890,8 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
+        "Fried Food",
+        "Pizza",
         "Krispykreme",
         "BenJerry",
         "MCO",
@@ -4434,6 +4452,7 @@
       "features": [
         "CupRescue",
         "Alt Milk",
+        "Pizza",
         "Krispykreme",
         "BenJerry",
         "MCO",
@@ -4624,6 +4643,8 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
+        "Fried Food",
+        "Pizza",
         "Krispykreme",
         "BenJerry",
         "Velocity",
@@ -4906,6 +4927,8 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
+        "Fried Food",
+        "Pizza",
         "MCO",
         "Velocity",
         "MCOPilot",
@@ -5558,6 +5581,8 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
+        "Fried Food",
+        "Pizza",
         "Krispykreme",
         "Velocity",
         "MCOPilot",
@@ -7051,6 +7076,8 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
+        "Fried Food",
+        "Pizza",
         "Krispykreme",
         "BenJerry",
         "MCO",
@@ -7612,6 +7639,8 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
+        "Fried Food",
+        "Pizza",
         "Krispykreme",
         "BenJerry",
         "MCO",
@@ -7985,6 +8014,8 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
+        "Fried Food",
+        "Pizza",
         "Krispykreme",
         "Velocity",
         "MCOPilot",
@@ -9315,6 +9346,7 @@
         " ",
         " ",
         " ",
+        " ",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -9489,6 +9521,8 @@
       "features": [
         "CupRescue",
         "Alt Milk",
+        "Fried Food",
+        "Pizza",
         "Krispykreme",
         "BenJerry",
         "MCO",
@@ -9766,6 +9800,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -10420,6 +10455,7 @@
         " ",
         " ",
         " ",
+        " ",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -10553,6 +10589,7 @@
         " ",
         " ",
         " ",
+        " ",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -10640,6 +10677,7 @@
       "hasKiosk": false,
       "features": [
         "Alt Milk",
+        "Fried Food",
         "Krispykreme",
         "BenJerry",
         "MCO",
@@ -11996,6 +12034,7 @@
         " ",
         " ",
         " ",
+        " ",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -12748,6 +12787,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -13770,6 +13810,7 @@
         " ",
         " ",
         " ",
+        " ",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -13859,6 +13900,8 @@
         "CupRescue",
         "TrailerHire",
         "Alt Milk",
+        "Fried Food",
+        "Pizza",
         "Krispykreme",
         "BenJerry",
         "Velocity",
@@ -14050,6 +14093,8 @@
       "features": [
         "Carwash",
         "CupRescue",
+        "Fried Food",
+        "Pizza",
         "Krispykreme",
         "BenJerry",
         "Velocity",
@@ -18569,6 +18614,8 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
+        "Fried Food",
+        "Pizza",
         "Krispykreme",
         "MCO",
         "Velocity",
@@ -20000,45 +20047,45 @@
       ],
       "atm": false,
       "isBrandNewStore": false,
-      "isFranchiseOpp": true,
+      "isFranchiseOpp": false,
       "franchiseSuburb": "",
       "franchiseEstimatedCost": "563866",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 1,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 2,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 3,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 4,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 5,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 6,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "12:00 am"
         }
       ],
       "specialOpeningHours": [],
@@ -20353,6 +20400,8 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
+        "Fried Food",
+        "Pizza",
         "Krispykreme",
         "BenJerry",
         "MCO",
@@ -21106,6 +21155,8 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
+        "Fried Food",
+        "Pizza",
         "Krispykreme",
         "MCO",
         "Velocity",
@@ -21199,6 +21250,8 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
+        "Fried Food",
+        "Pizza",
         "Velocity",
         "MCOPilot",
         "PaPPilot",
@@ -22626,6 +22679,8 @@
       "features": [
         "CupRescue",
         "Alt Milk",
+        "Fried Food",
+        "Pizza",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -23458,6 +23513,8 @@
       "features": [
         "CupRescue",
         "Alt Milk",
+        "Fried Food",
+        "Pizza",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -23546,6 +23603,8 @@
       "features": [
         "CupRescue",
         "Alt Milk",
+        "Fried Food",
+        "Pizza",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -24045,6 +24104,7 @@
         " ",
         " ",
         " ",
+        " ",
         "Krispykreme",
         "BenJerry",
         "MCO",
@@ -24422,6 +24482,7 @@
         "CupRescue",
         "TrailerHire",
         "Alt Milk",
+        "Pizza",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -27164,6 +27225,8 @@
       "features": [
         "CupRescue",
         "TrailerHire",
+        "Fried Food",
+        "Pizza",
         "Krispykreme",
         "BenJerry",
         "Velocity",
@@ -27446,6 +27509,8 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
+        "Fried Food",
+        "Pizza",
         "Krispykreme",
         "Velocity",
         "MCOPilot",
@@ -28195,6 +28260,8 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
+        "Fried Food",
+        "Pizza",
         "Krispykreme",
         "MCO",
         "Velocity",
@@ -28481,6 +28548,8 @@
       "features": [
         "CupRescue",
         "TrailerHire",
+        "Fried Food",
+        "Pizza",
         "Krispykreme",
         "BenJerry",
         "Velocity",
@@ -29055,6 +29124,8 @@
       "features": [
         "CupRescue",
         "Alt Milk",
+        "Fried Food",
+        "Pizza",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -30187,6 +30258,8 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
+        "Fried Food",
+        "Pizza",
         "Krispykreme",
         "BenJerry",
         "MCO",
@@ -30281,6 +30354,7 @@
       "features": [
         "CupRescue",
         "Alt Milk",
+        "Pizza",
         "Krispykreme",
         "MCO",
         "Velocity",
@@ -31505,6 +31579,8 @@
       "features": [
         "CupRescue",
         "Alt Milk",
+        "Fried Food",
+        "Pizza",
         "Krispykreme",
         "BenJerry",
         "Velocity",
@@ -31885,6 +31961,8 @@
       "features": [
         "CupRescue",
         "Alt Milk",
+        "Fried Food",
+        "Pizza",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -32157,6 +32235,8 @@
       "features": [
         "CupRescue",
         "Alt Milk",
+        "Fried Food",
+        "Pizza",
         "Krispykreme",
         "BenJerry",
         "MCO",
@@ -32724,6 +32804,7 @@
       "features": [
         "CupRescue",
         "Alt Milk",
+        "Pizza",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -36565,6 +36646,8 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
+        "Fried Food",
+        "Pizza",
         "Velocity",
         "MCOPilot",
         "PaPPilot",
@@ -36657,6 +36740,8 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
+        "Fried Food",
+        "Pizza",
         "Krispykreme",
         "MCO",
         "Velocity",
@@ -36837,6 +36922,8 @@
       "features": [
         "CupRescue",
         "Alt Milk",
+        "Fried Food",
+        "Pizza",
         "Krispykreme",
         "BenJerry",
         "MCO",
@@ -37286,6 +37373,7 @@
       "features": [
         "CupRescue",
         "Alt Milk",
+        "Pizza",
         "MCO",
         "Velocity",
         "MCOPilot",
@@ -37664,6 +37752,8 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
+        "Fried Food",
+        "Pizza",
         "Krispykreme",
         "BenJerry",
         "Velocity",
@@ -37753,6 +37843,8 @@
         "CupRescue",
         "TrailerHire",
         "Alt Milk",
+        "Fried Food",
+        "Pizza",
         "Krispykreme",
         "BenJerry",
         "MCO",
@@ -38137,6 +38229,8 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
+        "Fried Food",
+        "Pizza",
         "Krispykreme",
         "MCO",
         "Velocity",
@@ -39786,6 +39880,7 @@
         " ",
         " ",
         " ",
+        " ",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -40712,6 +40807,8 @@
       "hasKiosk": false,
       "features": [
         "Alt Milk",
+        "Fried Food",
+        "Pizza",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -44543,6 +44640,8 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
+        "Fried Food",
+        "Pizza",
         "Krispykreme",
         "Velocity",
         "MCOPilot",
@@ -44637,6 +44736,8 @@
       "features": [
         "CupRescue",
         "Alt Milk",
+        "Fried Food",
+        "Pizza",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -45019,6 +45120,8 @@
       "hasKiosk": false,
       "features": [
         "Alt Milk",
+        "Fried Food",
+        "Pizza",
         "Krispykreme",
         "BenJerry",
         "Velocity",
@@ -46078,6 +46181,8 @@
       "features": [
         "CupRescue",
         "TrailerHire",
+        "Fried Food",
+        "Pizza",
         "Krispykreme",
         "BenJerry",
         "Velocity",
@@ -46560,6 +46665,8 @@
         "Carwash",
         "CupRescue",
         "TrailerHire",
+        "Fried Food",
+        "Pizza",
         "Krispykreme",
         "BenJerry",
         "Velocity",
@@ -47229,6 +47336,8 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
+        "Fried Food",
+        "Pizza",
         "Krispykreme",
         "BenJerry",
         "Velocity",
@@ -52792,6 +52901,8 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
+        "Fried Food",
+        "Pizza",
         "Krispykreme",
         "BenJerry",
         "Velocity",
@@ -53650,6 +53761,8 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
+        "Fried Food",
+        "Pizza",
         "Krispykreme",
         "BenJerry",
         "Velocity",
@@ -54877,6 +54990,8 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
+        "Fried Food",
+        "Pizza",
         "Krispykreme",
         "Velocity",
         "MCOPilot",
@@ -55529,6 +55644,8 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
+        "Fried Food",
+        "Pizza",
         "Krispykreme",
         "Velocity",
         "MCOPilot",
@@ -55622,6 +55739,8 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
+        "Fried Food",
+        "Pizza",
         "Krispykreme",
         "Velocity",
         "MCOPilot",
@@ -56185,6 +56304,8 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
+        "Fried Food",
+        "Pizza",
         "Krispykreme",
         "MCO",
         "Velocity",
@@ -56371,6 +56492,8 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
+        "Fried Food",
+        "Pizza",
         "Krispykreme",
         "MCO",
         "Velocity",
@@ -56558,6 +56681,8 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
+        "Fried Food",
+        "Pizza",
         "Krispykreme",
         "BenJerry",
         "Velocity",
@@ -56933,6 +57058,8 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
+        "Fried Food",
+        "Pizza",
         "Velocity",
         "MCOPilot",
         "PaPPilot",
@@ -57210,6 +57337,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -57813,6 +57941,8 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
+        "Fried Food",
+        "Pizza",
         "MCO",
         "Velocity",
         "MCOPilot",
@@ -57998,6 +58128,8 @@
       "features": [
         "Carwash",
         "CupRescue",
+        "Fried Food",
+        "Pizza",
         "Krispykreme",
         "MCO",
         "Velocity",
@@ -58090,6 +58222,8 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
+        "Fried Food",
+        "Pizza",
         "Krispykreme",
         "MCO",
         "Velocity",
@@ -58182,6 +58316,8 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
+        "Fried Food",
+        "Pizza",
         "MCO",
         "Velocity",
         "MCOPilot",
@@ -58366,6 +58502,8 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
+        "Fried Food",
+        "Pizza",
         "Krispykreme",
         "MCO",
         "Velocity",
@@ -59970,6 +60108,8 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
+        "Fried Food",
+        "Pizza",
         "Velocity",
         "MCOPilot",
         "PaPPilot",
@@ -60525,6 +60665,7 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
+        "Fried Food",
         "Velocity",
         "MCOPilot",
         "PaPPilot",
@@ -60616,6 +60757,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -60931,6 +61073,8 @@
       "features": [
         "CupRescue",
         "Alt Milk",
+        "Fried Food",
+        "Pizza",
         "Velocity",
         "MCOPilot",
         "PaPPilot",
@@ -61024,6 +61168,8 @@
       "features": [
         "CupRescue",
         "TrailerHire",
+        "Fried Food",
+        "Pizza",
         "MCO",
         "Velocity",
         "MCOPilot",
@@ -61291,6 +61437,8 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
+        "Fried Food",
+        "Pizza",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -61382,6 +61530,8 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
+        "Fried Food",
+        "Pizza",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -61840,6 +61990,8 @@
       "features": [
         "CupRescue",
         "Alt Milk",
+        "Fried Food",
+        "Pizza",
         "MCOPilot",
         "PaPPilot",
         "PaP",
@@ -61931,6 +62083,8 @@
       "features": [
         "CupRescue",
         "Alt Milk",
+        "Fried Food",
+        "Pizza",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -63119,6 +63273,8 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
+        "Fried Food",
+        "Pizza",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -63211,6 +63367,8 @@
         "Carwash",
         "CupRescue",
         "Alt Milk",
+        "Fried Food",
+        "Pizza",
         "MCOPilot",
         "PaPPilot",
         "PaP",
@@ -63393,6 +63551,8 @@
       "features": [
         "CupRescue",
         "Alt Milk",
+        "Fried Food",
+        "Pizza",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -63577,6 +63737,8 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
+        "Fried Food",
+        "Pizza",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -63759,6 +63921,8 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
+        "Fried Food",
+        "Pizza",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -63849,6 +64013,7 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
+        "Pizza",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -63940,6 +64105,8 @@
       "features": [
         "CupRescue",
         "Alt Milk",
+        "Fried Food",
+        "Pizza",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -64440,6 +64607,7 @@
         " ",
         " ",
         " ",
+        " ",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -64621,6 +64789,8 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
+        "Fried Food",
+        "Pizza",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -64710,6 +64880,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -65022,6 +65193,8 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
+        "Fried Food",
+        "Pizza",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -65112,6 +65285,8 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
+        "Fried Food",
+        "Pizza",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -65837,6 +66012,7 @@
       "isFuelStore": false,
       "hasKiosk": true,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -67364,6 +67540,7 @@
         " ",
         " ",
         " ",
+        " ",
         "MCO",
         "MCOPilot"
       ],
@@ -67538,6 +67715,8 @@
       "features": [
         "CupRescue",
         "Alt Milk",
+        "Fried Food",
+        "Pizza",
         "MCO",
         "MCOPilot"
       ],
@@ -68076,6 +68255,8 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
+        "Fried Food",
+        "Pizza",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -68613,6 +68794,8 @@
       "features": [
         "CupRescue",
         "Alt Milk",
+        "Fried Food",
+        "Pizza",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -68703,6 +68886,8 @@
       "hasKiosk": false,
       "features": [
         "Alt Milk",
+        "Fried Food",
+        "Pizza",
         " ",
         " ",
         " ",
@@ -68807,6 +68992,8 @@
       "features": [
         "CupRescue",
         "Alt Milk",
+        "Fried Food",
+        "Pizza",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -68896,6 +69083,8 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        "Fried Food",
+        "Pizza",
         " ",
         " ",
         " ",
@@ -69024,6 +69213,8 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        "Fried Food",
+        "Pizza",
         " ",
         " ",
         " ",
@@ -69154,6 +69345,8 @@
       "features": [
         "CupRescue",
         "Alt Milk",
+        "Fried Food",
+        "Pizza",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -69244,6 +69437,8 @@
       "hasKiosk": false,
       "features": [
         "Alt Milk",
+        "Fried Food",
+        "Pizza",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -69333,6 +69528,8 @@
       "isFuelStore": true,
       "hasKiosk": false,
       "features": [
+        "Fried Food",
+        "Pizza",
         " ",
         " ",
         " ",
@@ -69468,6 +69665,8 @@
       "isFuelStore": true,
       "hasKiosk": false,
       "features": [
+        "Fried Food",
+        "Pizza",
         " ",
         " ",
         " ",
@@ -69605,6 +69804,8 @@
       "features": [
         "CupRescue",
         "Alt Milk",
+        "Fried Food",
+        "Pizza",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -69694,6 +69895,8 @@
       "isFuelStore": true,
       "hasKiosk": false,
       "features": [
+        "Fried Food",
+        "Pizza",
         " ",
         " ",
         " ",
@@ -69830,6 +70033,8 @@
       "isFuelStore": true,
       "hasKiosk": false,
       "features": [
+        "Fried Food",
+        "Pizza",
         " ",
         " ",
         " ",
@@ -70059,6 +70264,8 @@
       "features": [
         "CupRescue",
         "Alt Milk",
+        "Fried Food",
+        "Pizza",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -70149,6 +70356,8 @@
       "isFuelStore": true,
       "hasKiosk": false,
       "features": [
+        "Fried Food",
+        "Pizza",
         " ",
         " ",
         " ",
@@ -70286,6 +70495,8 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
+        "Fried Food",
+        "Pizza",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -70376,6 +70587,8 @@
       "features": [
         "CupRescue",
         "Alt Milk",
+        "Fried Food",
+        "Pizza",
         "MCO",
         "MCOPilot"
       ],
@@ -70459,6 +70672,8 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
+        "Fried Food",
+        "Pizza",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -70550,6 +70765,8 @@
       "features": [
         "CupRescue",
         "Alt Milk",
+        "Fried Food",
+        "Pizza",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -70639,6 +70856,8 @@
       "isFuelStore": true,
       "hasKiosk": false,
       "features": [
+        "Fried Food",
+        "Pizza",
         " ",
         " ",
         " ",
@@ -70775,6 +70994,8 @@
       "features": [
         "CupRescue",
         "Alt Milk",
+        "Fried Food",
+        "Pizza",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -70866,6 +71087,8 @@
       "features": [
         "CupRescue",
         "Alt Milk",
+        "Fried Food",
+        "Pizza",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -71047,6 +71270,8 @@
       "isFuelStore": true,
       "hasKiosk": false,
       "features": [
+        "Fried Food",
+        "Pizza",
         " ",
         " ",
         " ",
@@ -71182,6 +71407,8 @@
       "isFuelStore": true,
       "hasKiosk": false,
       "features": [
+        "Fried Food",
+        "Pizza",
         " ",
         " ",
         " ",
@@ -71319,6 +71546,8 @@
       "features": [
         "CupRescue",
         "Alt Milk",
+        "Fried Food",
+        "Pizza",
         "MCO",
         "MCOPilot"
       ],
@@ -71402,6 +71631,7 @@
       "hasKiosk": false,
       "features": [
         "Alt Milk",
+        "Pizza",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -71492,6 +71722,8 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
+        "Fried Food",
+        "Pizza",
         "MCO",
         "MCOPilot"
       ],
@@ -71574,6 +71806,8 @@
       "isFuelStore": true,
       "hasKiosk": false,
       "features": [
+        "Fried Food",
+        "Pizza",
         " ",
         " ",
         " ",
@@ -71709,6 +71943,8 @@
       "isFuelStore": true,
       "hasKiosk": false,
       "features": [
+        "Fried Food",
+        "Pizza",
         " ",
         " ",
         " ",
@@ -71844,6 +72080,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        "Pizza",
         " ",
         " ",
         " ",
@@ -71972,6 +72209,8 @@
       "isFuelStore": false,
       "hasKiosk": true,
       "features": [
+        "Fried Food",
+        "Pizza",
         " ",
         " ",
         " ",
@@ -72100,6 +72339,8 @@
       "isFuelStore": true,
       "hasKiosk": false,
       "features": [
+        "Fried Food",
+        "Pizza",
         " ",
         " ",
         " ",
@@ -72234,6 +72475,8 @@
       "isFuelStore": true,
       "hasKiosk": false,
       "features": [
+        "Fried Food",
+        "Pizza",
         " ",
         " ",
         " ",
@@ -72370,6 +72613,8 @@
       "isFuelStore": true,
       "hasKiosk": false,
       "features": [
+        "Fried Food",
+        "Pizza",
         " ",
         " ",
         " ",
@@ -72474,6 +72719,8 @@
       "hasKiosk": false,
       "features": [
         "Alt Milk",
+        "Fried Food",
+        "Pizza",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -72563,6 +72810,8 @@
       "isFuelStore": true,
       "hasKiosk": false,
       "features": [
+        "Fried Food",
+        "Pizza",
         " ",
         " ",
         " ",
@@ -72700,6 +72949,8 @@
       "hasKiosk": false,
       "features": [
         "Alt Milk",
+        "Fried Food",
+        "Pizza",
         " ",
         " ",
         " ",
@@ -72823,6 +73074,8 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        "Fried Food",
+        "Pizza",
         " ",
         " ",
         " ",
@@ -72954,6 +73207,8 @@
       "features": [
         "CupRescue",
         "Alt Milk",
+        "Fried Food",
+        "Pizza",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -73044,6 +73299,8 @@
       "hasKiosk": false,
       "features": [
         "Alt Milk",
+        "Fried Food",
+        "Pizza",
         " ",
         " ",
         " ",
