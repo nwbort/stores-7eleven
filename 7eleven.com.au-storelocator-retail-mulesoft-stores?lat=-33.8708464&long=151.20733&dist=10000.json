@@ -6777,7 +6777,7 @@
       ],
       "centre": "",
       "address": {
-        "address1": "12-34 Halpine Drive",
+        "address1": "30 Halpine Drive",
         "address2": "",
         "suburb": "Mango Hill",
         "state": "QLD",
@@ -9752,6 +9752,7 @@
         " ",
         " ",
         " ",
+        " ",
         "Krispykreme",
         "BenJerry",
         "Velocity",
@@ -10398,6 +10399,7 @@
         " ",
         " ",
         " ",
+        " ",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -10485,6 +10487,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -12053,6 +12056,7 @@
         " ",
         " ",
         " ",
+        " ",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -12696,7 +12700,7 @@
       ],
       "centre": "",
       "address": {
-        "address1": "Shop 1, 87-91 Broadwater Avenue",
+        "address1": "63 Marina Quays Boulevard",
         "address2": "",
         "suburb": "Hope Island",
         "state": "QLD",
@@ -12805,6 +12809,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -13819,6 +13824,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -24150,6 +24156,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -39966,6 +39973,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -57588,6 +57596,7 @@
         " ",
         " ",
         " ",
+        " ",
         "Krispykreme",
         "BenJerry",
         "MCO",
@@ -59049,7 +59058,7 @@
       ],
       "centre": "",
       "address": {
-        "address1": "2201 Gympie Road",
+        "address1": "2203 Gympie Road",
         "address2": "",
         "suburb": "Bald Hills",
         "state": "QLD",
@@ -64720,6 +64729,7 @@
         " ",
         " ",
         " ",
+        " ",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -64992,6 +65002,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -66161,6 +66172,7 @@
       "isFuelStore": false,
       "hasKiosk": true,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -67680,6 +67692,7 @@
       "isFuelStore": false,
       "hasKiosk": true,
       "features": [
+        " ",
         " ",
         " ",
         " ",
