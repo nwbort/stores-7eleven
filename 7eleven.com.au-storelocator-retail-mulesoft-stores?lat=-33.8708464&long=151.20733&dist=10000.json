@@ -8475,47 +8475,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "425000",
+      "franchiseFee": "18363",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "493863",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -9529,47 +9529,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "600000",
+      "franchiseFee": "5500",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "656000",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         }
       ],
       "specialOpeningHours": [],
@@ -10176,6 +10176,7 @@
         " ",
         " ",
         " ",
+        " ",
         "Krispykreme",
         "BenJerry",
         "Velocity",
@@ -10685,47 +10686,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "550000",
+      "franchiseFee": "38466",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "638966",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -10762,6 +10763,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -10949,6 +10951,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -11838,47 +11841,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "695000",
+      "franchiseFee": "70453",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "815953",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -12428,47 +12431,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "730000",
+      "franchiseFee": "111465",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "891965",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -12505,6 +12508,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -13008,47 +13012,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "1400000",
+      "franchiseFee": "12999",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "1463499",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         }
       ],
       "specialOpeningHours": [],
@@ -13385,6 +13389,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -13981,47 +13986,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "750000",
+      "franchiseFee": "55045",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "855545",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -14083,47 +14088,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "850000",
+      "franchiseFee": "47077",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "947577",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -14374,47 +14379,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "225000",
+      "franchiseFee": "5500",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "281000",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         }
       ],
       "specialOpeningHours": [],
@@ -14451,6 +14456,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -16034,47 +16040,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "400000",
+      "franchiseFee": "12208",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "462708",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -17510,47 +17516,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "300000",
+      "franchiseFee": "5500",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "356000",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         }
       ],
       "specialOpeningHours": [],
@@ -20359,10 +20365,10 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "556000",
+      "franchiseFee": "5500",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "612000",
       "allowStoreDelivery": false,
       "openingHours": [
@@ -20655,47 +20661,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "495000",
+      "franchiseFee": "50846",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "596346",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -20953,47 +20959,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "305000",
+      "franchiseFee": "44678",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "400178",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -22524,47 +22530,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "500000",
+      "franchiseFee": "52135",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "602635",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -23417,47 +23423,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "700000",
+      "franchiseFee": "89070",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "839570",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -24285,47 +24291,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "600000",
+      "franchiseFee": "26235",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "676735",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -25327,6 +25333,7 @@
         " ",
         " ",
         " ",
+        " ",
         "Krispykreme",
         "BenJerry",
         "MCO",
@@ -25639,47 +25646,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "760000",
+      "franchiseFee": "172737",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "983237",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -25843,47 +25850,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "600000",
+      "franchiseFee": "46969",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "697469",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -26044,47 +26051,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "799000",
+      "franchiseFee": "84051",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "933551",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -26448,47 +26455,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "350000",
+      "franchiseFee": "32549",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "433049",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -26949,47 +26956,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "400000",
+      "franchiseFee": "75565",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "526065",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -27330,47 +27337,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "380000",
+      "franchiseFee": "5500",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "436000",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         }
       ],
       "specialOpeningHours": [],
@@ -27817,47 +27824,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "810000",
+      "franchiseFee": "106956",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "967456",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -27917,47 +27924,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "950000",
+      "franchiseFee": "26599",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "1027099",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -28997,47 +29004,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "575000",
+      "franchiseFee": "29391",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "654891",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -30086,47 +30093,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "650000",
+      "franchiseFee": "62586",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "763086",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -31567,47 +31574,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "985000",
+      "franchiseFee": "220773",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "1256273",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -32265,47 +32272,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "435000",
+      "franchiseFee": "75920",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "561420",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -32366,47 +32373,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "1250000",
+      "franchiseFee": "300242",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "1600742",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -32563,47 +32570,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "450000",
+      "franchiseFee": "62028",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "562528",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -32852,47 +32859,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "388000",
+      "franchiseFee": "43123",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "481632",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         }
       ],
       "specialOpeningHours": [],
@@ -33533,47 +33540,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "288000",
+      "franchiseFee": "14433",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "352933",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         }
       ],
       "specialOpeningHours": [],
@@ -34709,47 +34716,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "375000",
+      "franchiseFee": "49936",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "475436",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -35489,47 +35496,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "780000",
+      "franchiseFee": "19472",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "849972",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -36380,47 +36387,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "320000",
+      "franchiseFee": "20764",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "391264",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -36478,47 +36485,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "550000",
+      "franchiseFee": "41228",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "641728",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -36569,47 +36576,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "420000",
+      "franchiseFee": "5500",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "476000",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         }
       ],
       "specialOpeningHours": [],
@@ -37657,47 +37664,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "350000",
+      "franchiseFee": "54495",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "454995",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -38225,47 +38232,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "80000",
+      "franchiseFee": "5500",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "136000",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         }
       ],
       "specialOpeningHours": [],
@@ -39277,47 +39284,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "315000",
+      "franchiseFee": "19038",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "384538",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -39378,47 +39385,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "500000",
+      "franchiseFee": "106034",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "656534",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -40166,47 +40173,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "390000",
+      "franchiseFee": "5500",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "446000",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         }
       ],
       "specialOpeningHours": [],
@@ -40765,47 +40772,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "995000",
+      "franchiseFee": "168381",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "1213881",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -41269,47 +41276,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "716000",
+      "franchiseFee": "121413",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "887913",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -41369,47 +41376,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "450000",
+      "franchiseFee": "47045",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "547545",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -41822,6 +41829,7 @@
         " ",
         " ",
         " ",
+        " ",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -41935,47 +41943,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "855000",
+      "franchiseFee": "64881",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "970381",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -42033,47 +42041,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "Ashmore",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "575000",
+      "franchiseFee": "23785",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "649285",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -43006,47 +43014,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "900000",
+      "franchiseFee": "204566",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "1155066",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -43310,10 +43318,10 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "300000",
+      "franchiseFee": "16420",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "366920",
       "allowStoreDelivery": false,
       "openingHours": [
@@ -44507,47 +44515,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "470000",
+      "franchiseFee": "45915",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "566415",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -45803,47 +45811,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "500000",
+      "franchiseFee": "46179",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "596679",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -48916,47 +48924,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "820000",
+      "franchiseFee": "1493990",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "1019890",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -49513,47 +49521,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "1300000",
+      "franchiseFee": "297723",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "1648223",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -50607,47 +50615,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "775000",
+      "franchiseFee": "86495",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "911995",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -50907,47 +50915,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "800000",
+      "franchiseFee": "39621",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "890121",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -51207,47 +51215,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "633000",
+      "franchiseFee": "47958",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "731458",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -53007,47 +53015,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "1280000",
+      "franchiseFee": "131213",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "1461713",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -53604,47 +53612,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "Seven Hills",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "410000",
+      "franchiseFee": "38362",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "498862",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -53906,47 +53914,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "1000000",
+      "franchiseFee": "184700",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "1235200",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -54510,47 +54518,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "1324997",
+      "franchiseFee": "245051",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "1620548",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -55110,47 +55118,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "410000",
+      "franchiseFee": "41544",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "502044",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -56009,47 +56017,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "780000",
+      "franchiseFee": "145452",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "975952",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -56508,47 +56516,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "495000",
+      "franchiseFee": "36724",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "582224",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -60107,6 +60115,7 @@
         " ",
         " ",
         " ",
+        " ",
         "Krispykreme",
         "BenJerry",
         "MCO",
@@ -60320,47 +60329,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "1050000",
+      "franchiseFee": "219560",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "1320060",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -62495,47 +62504,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
+      "franchiseTransferAmount": "250000",
+      "franchiseFee": "5500",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
       "franchiseEstimatedCost": "306000",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         }
       ],
       "specialOpeningHours": [],
@@ -67559,6 +67568,7 @@
         " ",
         " ",
         " ",
+        " ",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -67843,6 +67853,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -69072,6 +69083,7 @@
       "isFuelStore": false,
       "hasKiosk": true,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -70667,6 +70679,7 @@
       "isFuelStore": false,
       "hasKiosk": true,
       "features": [
+        " ",
         " ",
         " ",
         " ",
