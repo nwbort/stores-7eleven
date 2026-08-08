@@ -10179,6 +10179,7 @@
         " ",
         " ",
         " ",
+        " ",
         "Krispykreme",
         "BenJerry",
         "Velocity",
@@ -10864,6 +10865,7 @@
         " ",
         " ",
         " ",
+        " ",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -10955,6 +10957,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -12613,6 +12616,7 @@
         " ",
         " ",
         " ",
+        " ",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -13397,6 +13401,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -14466,6 +14471,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -21338,7 +21344,7 @@
       },
       "phone": "08 9336 3162",
       "fax": "",
-      "allHours": true,
+      "allHours": false,
       "isActive": true,
       "isDigitalDisplay": false,
       "isFuelStore": false,
@@ -21368,37 +21374,37 @@
         {
           "day_of_week": 0,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 1,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "5:00 am",
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 2,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "5:00 am",
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 3,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "5:00 am",
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 4,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "5:00 am",
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 5,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "5:00 am",
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         }
       ],
       "specialOpeningHours": [],
@@ -24088,7 +24094,7 @@
       },
       "phone": "03 9380 4273",
       "fax": "",
-      "allHours": true,
+      "allHours": false,
       "isActive": true,
       "isDigitalDisplay": false,
       "isFuelStore": false,
@@ -24120,37 +24126,37 @@
         {
           "day_of_week": 0,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 1,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "5:00 am",
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 2,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "5:00 am",
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 3,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "5:00 am",
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 4,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "5:00 am",
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 5,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "5:00 am",
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         }
       ],
       "specialOpeningHours": [],
@@ -25250,6 +25256,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -33072,38 +33079,38 @@
       "openingHours": [
         {
           "day_of_week": 0,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 1,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 2,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 3,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 4,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 5,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 6,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         }
       ],
       "specialOpeningHours": [],
@@ -41749,6 +41756,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -50641,38 +50649,38 @@
       "openingHours": [
         {
           "day_of_week": 0,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 1,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 2,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 3,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 4,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 5,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 6,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         }
       ],
       "specialOpeningHours": [],
@@ -60135,6 +60143,7 @@
         " ",
         " ",
         " ",
+        " ",
         "Krispykreme",
         "BenJerry",
         "MCO",
@@ -67590,6 +67599,7 @@
         " ",
         " ",
         " ",
+        " ",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -67874,6 +67884,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -69205,6 +69216,7 @@
         " ",
         " ",
         " ",
+        " ",
         "Krispykreme",
         "MCO",
         "Velocity",
@@ -69974,37 +69986,37 @@
         {
           "day_of_week": 0,
           "start_time": "5:00 am",
-          "end_time": "12:00 am"
+          "end_time": "10:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "5:00 am",
-          "end_time": "12:00 am"
+          "end_time": "10:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "5:00 am",
-          "end_time": "12:00 am"
+          "end_time": "10:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "5:00 am",
-          "end_time": "12:00 am"
+          "end_time": "10:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "5:00 am",
-          "end_time": "12:00 am"
+          "end_time": "10:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "5:00 am",
-          "end_time": "12:00 am"
+          "end_time": "10:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "5:00 am",
-          "end_time": "12:00 am"
+          "end_time": "10:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -70704,6 +70716,7 @@
       "isFuelStore": false,
       "hasKiosk": true,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -74671,7 +74684,7 @@
         "postcode": "2620",
         "extra": ""
       },
-      "phone": "",
+      "phone": "0421461183",
       "fax": "",
       "allHours": true,
       "isActive": true,
