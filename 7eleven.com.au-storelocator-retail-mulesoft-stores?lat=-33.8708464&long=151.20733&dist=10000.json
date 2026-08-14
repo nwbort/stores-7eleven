@@ -10185,6 +10185,7 @@
         " ",
         " ",
         " ",
+        " ",
         "Krispykreme",
         "BenJerry",
         "Velocity",
@@ -10876,6 +10877,7 @@
         " ",
         " ",
         " ",
+        " ",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -10967,6 +10969,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -12637,6 +12640,7 @@
         " ",
         " ",
         " ",
+        " ",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -13421,6 +13425,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -14496,6 +14501,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -25391,6 +25397,7 @@
         " ",
         " ",
         " ",
+        " ",
         "Krispykreme",
         "BenJerry",
         "MCO",
@@ -34035,6 +34042,106 @@
       }
     },
     {
+      "storeId": "1339",
+      "distance": 738.40097965567,
+      "name": "Werribee",
+      "location": [
+        -37.875177363157,
+        144.66519767017
+      ],
+      "centre": "",
+      "address": {
+        "address1": "370 Heaths Road  (Corner Tarneit Road)",
+        "address2": "",
+        "suburb": "Werribee",
+        "state": "VIC",
+        "postcode": "3029",
+        "extra": ""
+      },
+      "phone": "03 9742 7598",
+      "fax": "",
+      "allHours": true,
+      "isActive": true,
+      "isDigitalDisplay": false,
+      "isFuelStore": true,
+      "hasKiosk": false,
+      "features": [
+        "Carwash",
+        "CupRescue",
+        "Alt Milk",
+        "Krispykreme",
+        "BenJerry",
+        "Velocity",
+        "MCOPilot",
+        "PaPPilot",
+        "PaP",
+        "MCO",
+        "Smoothies&Frappés"
+      ],
+      "ParcelMate": [],
+      "fuelOptions": [
+        "ULP",
+        "Diesel",
+        "LPG",
+        "PULP98",
+        "PULP"
+      ],
+      "atm": false,
+      "isBrandNewStore": false,
+      "isFranchiseOpp": false,
+      "franchiseSuburb": "",
+      "franchiseTransferAmount": "",
+      "franchiseFee": "",
+      "franchiseApplicationFee": "",
+      "franchisePaidInCapital": "",
+      "franchiseEstimatedCost": "",
+      "allowStoreDelivery": false,
+      "openingHours": [
+        {
+          "day_of_week": 0,
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
+        },
+        {
+          "day_of_week": 1,
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
+        },
+        {
+          "day_of_week": 2,
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
+        },
+        {
+          "day_of_week": 3,
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
+        },
+        {
+          "day_of_week": 4,
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
+        },
+        {
+          "day_of_week": 5,
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
+        },
+        {
+          "day_of_week": 6,
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
+        }
+      ],
+      "specialOpeningHours": [],
+      "timeSlot": "",
+      "region": {
+        "countryId": "AU",
+        "regionId": 1711,
+        "region": "Victoria"
+      }
+    },
+    {
       "storeId": "1062",
       "distance": 710.54978701891,
       "name": "Richmond",
@@ -41591,6 +41698,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -50489,38 +50597,38 @@
       "openingHours": [
         {
           "day_of_week": 0,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 1,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 2,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 3,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 4,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 5,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 6,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         }
       ],
       "specialOpeningHours": [],
@@ -55982,49 +56090,49 @@
       ],
       "atm": false,
       "isBrandNewStore": false,
-      "isFranchiseOpp": false,
+      "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
-      "franchiseEstimatedCost": "857837",
+      "franchiseTransferAmount": "415016",
+      "franchiseFee": "84984",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
+      "franchiseEstimatedCost": "550500",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -59886,6 +59994,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -67450,6 +67559,7 @@
         " ",
         " ",
         " ",
+        " ",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -67734,6 +67844,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -68972,6 +69083,7 @@
       "isFuelStore": false,
       "hasKiosk": true,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -70576,6 +70688,7 @@
       "isFuelStore": false,
       "hasKiosk": true,
       "features": [
+        " ",
         " ",
         " ",
         " ",
