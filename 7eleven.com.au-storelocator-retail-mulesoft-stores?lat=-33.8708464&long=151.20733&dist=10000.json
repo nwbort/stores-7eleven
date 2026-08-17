@@ -10188,6 +10188,7 @@
         " ",
         " ",
         " ",
+        " ",
         "Krispykreme",
         "BenJerry",
         "Velocity",
@@ -10882,6 +10883,7 @@
         " ",
         " ",
         " ",
+        " ",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -10973,6 +10975,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -12649,6 +12652,7 @@
         " ",
         " ",
         " ",
+        " ",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -13433,6 +13437,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -14511,6 +14516,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -25304,6 +25310,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -41819,6 +41826,7 @@
         " ",
         " ",
         " ",
+        " ",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -50812,38 +50820,38 @@
       "openingHours": [
         {
           "day_of_week": 0,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 1,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 2,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 3,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 4,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 5,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 6,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         }
       ],
       "specialOpeningHours": [],
@@ -55858,106 +55866,6 @@
       "hideFromStorelocator": false
     },
     {
-      "storeId": "4191",
-      "distance": 717.08176113299,
-      "name": "Richlands",
-      "location": [
-        -27.597947720811,
-        152.94985627456
-      ],
-      "centre": "",
-      "address": {
-        "address1": "208 Progress Road & Garden Road",
-        "address2": "",
-        "suburb": "Richlands",
-        "state": "QLD",
-        "postcode": "4077",
-        "extra": ""
-      },
-      "phone": "07 3271 2733",
-      "fax": "",
-      "allHours": true,
-      "isActive": true,
-      "isDigitalDisplay": false,
-      "isFuelStore": true,
-      "hasKiosk": false,
-      "features": [
-        "Carwash",
-        "CupRescue",
-        "Krispykreme",
-        "BenJerry",
-        "Velocity",
-        "MCOPilot",
-        "PaPPilot",
-        "PaP",
-        "MCO",
-        "Smoothies&Frappés"
-      ],
-      "ParcelMate": [],
-      "fuelOptions": [
-        "ULP",
-        "Diesel",
-        "LPG",
-        "E10",
-        "PULP98"
-      ],
-      "atm": false,
-      "isBrandNewStore": false,
-      "isFranchiseOpp": false,
-      "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
-      "franchiseEstimatedCost": "1040093",
-      "allowStoreDelivery": false,
-      "openingHours": [
-        {
-          "day_of_week": 0,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
-        },
-        {
-          "day_of_week": 1,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
-        },
-        {
-          "day_of_week": 2,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
-        },
-        {
-          "day_of_week": 3,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
-        },
-        {
-          "day_of_week": 4,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
-        },
-        {
-          "day_of_week": 5,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
-        },
-        {
-          "day_of_week": 6,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
-        }
-      ],
-      "specialOpeningHours": [],
-      "timeSlot": "",
-      "region": {
-        "countryId": "AU",
-        "regionId": 1714,
-        "region": "Queensland"
-      },
-      "hideFromStorelocator": false
-    },
-    {
       "storeId": "4194",
       "distance": 678.60851624939,
       "name": "Robina",
@@ -56117,38 +56025,38 @@
       "openingHours": [
         {
           "day_of_week": 0,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 1,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 2,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 3,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 4,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 5,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 6,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
         }
       ],
       "specialOpeningHours": [],
@@ -60010,6 +59918,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -67580,6 +67489,7 @@
         " ",
         " ",
         " ",
+        " ",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -67864,6 +67774,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -69105,6 +69016,7 @@
       "isFuelStore": false,
       "hasKiosk": true,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -70712,6 +70624,7 @@
       "isFuelStore": false,
       "hasKiosk": true,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -75644,11 +75557,11 @@
     },
     {
       "storeId": "2408",
-      "distance": 12.344631885293,
+      "distance": 12.301250595624,
       "name": "Kogarah",
       "location": [
-        -33.9630091,
-        151.1327437
+        -33.9626457,
+        151.1329351
       ],
       "centre": "",
       "address": {
@@ -75669,52 +75582,6 @@
       "features": [
         "Fried Food",
         "Pizza",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
         "MCO",
         "MCOPilot"
       ],
