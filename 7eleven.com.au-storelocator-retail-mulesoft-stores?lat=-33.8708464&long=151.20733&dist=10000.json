@@ -914,11 +914,13 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
-        "Fried Food",
-        "Pizza",
         "MCO",
         "Velocity",
         "MCOPilot",
+        "PaPPilot",
+        "PaP",
+        "Fried Food",
+        "Pizza",
         "Smoothies&Frappés"
       ],
       "ParcelMate": [],
@@ -942,37 +944,37 @@
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -2580,12 +2582,14 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
-        "Alt Milk",
-        "Fried Food",
-        "Pizza",
         "MCO",
         "Velocity",
         "MCOPilot",
+        "PaPPilot",
+        "PaP",
+        "Alt Milk",
+        "Fried Food",
+        "Pizza",
         "Smoothies&Frappés"
       ],
       "ParcelMate": [],
@@ -2610,37 +2614,37 @@
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -3654,12 +3658,14 @@
       "isFuelStore": true,
       "hasKiosk": false,
       "features": [
-        "CupRescue",
         "Krispykreme",
         "BenJerry",
+        "CupRescue",
         "MCO",
         "Velocity",
         "MCOPilot",
+        "PaPPilot",
+        "PaP",
         "Smoothies&Frappés"
       ],
       "ParcelMate": [],
@@ -3683,37 +3689,37 @@
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -10189,6 +10195,7 @@
         " ",
         " ",
         " ",
+        " ",
         "Krispykreme",
         "BenJerry",
         "Velocity",
@@ -10280,13 +10287,15 @@
       "isFuelStore": true,
       "hasKiosk": false,
       "features": [
-        "CupRescue",
-        "TrailerHire",
         "Krispykreme",
         "BenJerry",
+        "CupRescue",
+        "TrailerHire",
         "MCO",
         "Velocity",
         "MCOPilot",
+        "PaPPilot",
+        "PaP",
         "Smoothies&Frappés"
       ],
       "ParcelMate": [],
@@ -10311,37 +10320,37 @@
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -10903,6 +10912,7 @@
         " ",
         " ",
         " ",
+        " ",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -10994,6 +11004,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -11401,13 +11412,15 @@
       "isFuelStore": true,
       "hasKiosk": false,
       "features": [
-        "CupRescue",
-        "TrailerHire",
         "Krispykreme",
         "BenJerry",
+        "CupRescue",
+        "TrailerHire",
         "MCO",
         "Velocity",
         "MCOPilot",
+        "PaPPilot",
+        "PaP",
         "Smoothies&Frappés"
       ],
       "ParcelMate": [],
@@ -11432,37 +11445,37 @@
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -12717,6 +12730,7 @@
         " ",
         " ",
         " ",
+        " ",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -13501,6 +13515,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -14734,6 +14749,7 @@
         " ",
         " ",
         " ",
+        " ",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -15399,107 +15415,6 @@
         "countryId": "AU",
         "regionId": 1708,
         "region": "New South Wales"
-      }
-    },
-    {
-      "storeId": "1189",
-      "distance": 733.73769694218,
-      "name": "Melton",
-      "location": [
-        -37.686704268497,
-        144.5671688275
-      ],
-      "centre": "",
-      "address": {
-        "address1": "145 - 147 Coburns Road",
-        "address2": "",
-        "suburb": "Melton",
-        "state": "VIC",
-        "postcode": "3337",
-        "extra": ""
-      },
-      "phone": "03 9746 9309",
-      "fax": "",
-      "allHours": true,
-      "isActive": true,
-      "isDigitalDisplay": false,
-      "isFuelStore": true,
-      "hasKiosk": false,
-      "features": [
-        "Carwash",
-        "CupRescue",
-        "TrailerHire",
-        "Alt Milk",
-        "Krispykreme",
-        "BenJerry",
-        "Velocity",
-        "PaP",
-        "MCOPilot",
-        "PaPPilot",
-        "MCO",
-        "Smoothies&Frappés"
-      ],
-      "ParcelMate": [],
-      "fuelOptions": [
-        "ULP",
-        "Diesel",
-        "LPG",
-        "E10",
-        "PULP98"
-      ],
-      "atm": true,
-      "isBrandNewStore": false,
-      "isFranchiseOpp": false,
-      "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
-      "franchiseEstimatedCost": "",
-      "allowStoreDelivery": false,
-      "openingHours": [
-        {
-          "day_of_week": 0,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
-        },
-        {
-          "day_of_week": 1,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
-        },
-        {
-          "day_of_week": 2,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
-        },
-        {
-          "day_of_week": 3,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
-        },
-        {
-          "day_of_week": 4,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
-        },
-        {
-          "day_of_week": 5,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
-        },
-        {
-          "day_of_week": 6,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
-        }
-      ],
-      "specialOpeningHours": [],
-      "timeSlot": "",
-      "region": {
-        "countryId": "AU",
-        "regionId": 1711,
-        "region": "Victoria"
       }
     },
     {
@@ -25542,6 +25457,7 @@
         " ",
         " ",
         " ",
+        " ",
         "Krispykreme",
         "BenJerry",
         "MCO",
@@ -28990,13 +28906,15 @@
       "isFuelStore": true,
       "hasKiosk": false,
       "features": [
-        "CupRescue",
-        "TrailerHire",
         "Krispykreme",
         "BenJerry",
+        "CupRescue",
+        "TrailerHire",
         "MCO",
         "Velocity",
         "MCOPilot",
+        "PaPPilot",
+        "PaP",
         "Smoothies&Frappés"
       ],
       "ParcelMate": [],
@@ -29020,37 +28938,37 @@
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -32751,13 +32669,15 @@
       "isFuelStore": true,
       "hasKiosk": false,
       "features": [
-        "CupRescue",
-        "TrailerHire",
         "Krispykreme",
         "BenJerry",
+        "CupRescue",
+        "TrailerHire",
         "MCO",
         "Velocity",
         "MCOPilot",
+        "PaPPilot",
+        "PaP",
         "Smoothies&Frappés"
       ],
       "ParcelMate": [],
@@ -32782,37 +32702,37 @@
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -41875,6 +41795,7 @@
         " ",
         " ",
         " ",
+        " ",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -44469,37 +44390,37 @@
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         }
       ],
       "specialOpeningHours": [],
@@ -58978,13 +58899,15 @@
       "isFuelStore": true,
       "hasKiosk": false,
       "features": [
-        "CupRescue",
-        "Fried Food",
-        "Pizza",
         "Krispykreme",
+        "CupRescue",
         "MCO",
         "Velocity",
         "MCOPilot",
+        "PaPPilot",
+        "PaP",
+        "Fried Food",
+        "Pizza",
         "Smoothies&Frappés"
       ],
       "ParcelMate": [],
@@ -59008,37 +58931,37 @@
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -60050,6 +59973,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -65615,9 +65539,11 @@
       "hasKiosk": false,
       "features": [
         "CupRescue",
-        "Alt Milk",
         "MCO",
         "MCOPilot",
+        "PaPPilot",
+        "PaP",
+        "Alt Milk",
         "Smoothies&Frappés"
       ],
       "ParcelMate": [],
@@ -65642,37 +65568,37 @@
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -67658,6 +67584,7 @@
         " ",
         " ",
         " ",
+        " ",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -67942,6 +67869,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -69206,6 +69134,7 @@
       "isFuelStore": false,
       "hasKiosk": true,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -70837,6 +70766,7 @@
       "isFuelStore": false,
       "hasKiosk": true,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -76899,6 +76829,102 @@
         "extra": ""
       },
       "phone": "0436357478",
+      "fax": "",
+      "allHours": true,
+      "isActive": true,
+      "isDigitalDisplay": false,
+      "isFuelStore": true,
+      "hasKiosk": false,
+      "features": [
+        "Alt Milk",
+        "Fried Food",
+        "Pizza",
+        "MCO",
+        "MCOPilot",
+        "PaPPilot",
+        "PaP"
+      ],
+      "ParcelMate": [],
+      "fuelOptions": [
+        "ULP",
+        "Diesel",
+        "PULP98",
+        "PULP"
+      ],
+      "atm": false,
+      "isBrandNewStore": false,
+      "isFranchiseOpp": false,
+      "franchiseSuburb": "",
+      "franchiseTransferAmount": "",
+      "franchiseFee": "",
+      "franchiseApplicationFee": "",
+      "franchisePaidInCapital": "",
+      "franchiseEstimatedCost": "",
+      "allowStoreDelivery": false,
+      "openingHours": [
+        {
+          "day_of_week": 0,
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
+        },
+        {
+          "day_of_week": 1,
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
+        },
+        {
+          "day_of_week": 2,
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
+        },
+        {
+          "day_of_week": 3,
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
+        },
+        {
+          "day_of_week": 4,
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
+        },
+        {
+          "day_of_week": 5,
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
+        },
+        {
+          "day_of_week": 6,
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
+        }
+      ],
+      "specialOpeningHours": [],
+      "timeSlot": "",
+      "region": {
+        "countryId": "AU",
+        "regionId": 1711,
+        "region": "Victoria"
+      },
+      "hideFromStorelocator": false
+    },
+    {
+      "storeId": "1440",
+      "distance": 523.57918688544,
+      "name": "Wangaratta",
+      "location": [
+        -36.358900450656,
+        146.31880499494
+      ],
+      "centre": "",
+      "address": {
+        "address1": "22-28 Ryley Street",
+        "address2": "",
+        "suburb": "Wangaratta",
+        "state": "VIC",
+        "postcode": "3677",
+        "extra": ""
+      },
+      "phone": "",
       "fax": "",
       "allHours": true,
       "isActive": true,
