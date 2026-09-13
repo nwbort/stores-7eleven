@@ -10236,6 +10236,7 @@
         " ",
         " ",
         " ",
+        " ",
         "Krispykreme",
         "BenJerry",
         "Velocity",
@@ -10959,6 +10960,7 @@
         " ",
         " ",
         " ",
+        " ",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -11050,6 +11052,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -12781,6 +12784,7 @@
         " ",
         " ",
         " ",
+        " ",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -13565,6 +13569,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -14671,6 +14676,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -25397,6 +25403,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -41882,6 +41889,7 @@
         " ",
         " ",
         " ",
+        " ",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -50681,38 +50689,38 @@
       "openingHours": [
         {
           "day_of_week": 0,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 1,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 2,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 3,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 4,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 5,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 6,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -56188,38 +56196,38 @@
       "openingHours": [
         {
           "day_of_week": 0,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 1,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 2,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 3,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 4,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 5,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 6,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -60087,6 +60095,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -67721,6 +67730,7 @@
         " ",
         " ",
         " ",
+        " ",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -68005,6 +68015,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -69274,6 +69285,7 @@
       "isFuelStore": false,
       "hasKiosk": true,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -70908,6 +70920,7 @@
       "isFuelStore": false,
       "hasKiosk": true,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -77140,6 +77153,95 @@
           "day_of_week": 6,
           "start_time": "12:00 pm",
           "end_time": "11:59 am"
+        }
+      ],
+      "specialOpeningHours": [],
+      "timeSlot": "",
+      "region": {
+        "countryId": "AU",
+        "regionId": 1711,
+        "region": "Victoria"
+      },
+      "hideFromStorelocator": false
+    },
+    {
+      "storeId": "1515",
+      "distance": 712.81937861024,
+      "name": "Swanston Street",
+      "location": [
+        -37.809045238527,
+        144.96344962569
+      ],
+      "centre": "",
+      "address": {
+        "address1": "4/393 Swanston Street",
+        "address2": "",
+        "suburb": "Melbourne",
+        "state": "VIC",
+        "postcode": "3000",
+        "extra": ""
+      },
+      "phone": "",
+      "fax": "",
+      "allHours": false,
+      "isActive": true,
+      "isDigitalDisplay": false,
+      "isFuelStore": false,
+      "hasKiosk": false,
+      "features": [
+        "Alt Milk",
+        "Fried Food",
+        "Pizza",
+        "MCO",
+        "MCOPilot"
+      ],
+      "ParcelMate": [],
+      "fuelOptions": [],
+      "atm": false,
+      "isBrandNewStore": false,
+      "isFranchiseOpp": false,
+      "franchiseSuburb": "",
+      "franchiseTransferAmount": "",
+      "franchiseFee": "",
+      "franchiseApplicationFee": "",
+      "franchisePaidInCapital": "",
+      "franchiseEstimatedCost": "",
+      "allowStoreDelivery": false,
+      "openingHours": [
+        {
+          "day_of_week": 0,
+          "start_time": "6:00 am",
+          "end_time": "12:00 am"
+        },
+        {
+          "day_of_week": 1,
+          "start_time": "6:00 am",
+          "end_time": "12:00 am"
+        },
+        {
+          "day_of_week": 2,
+          "start_time": "6:00 am",
+          "end_time": "12:00 am"
+        },
+        {
+          "day_of_week": 3,
+          "start_time": "6:00 am",
+          "end_time": "12:00 am"
+        },
+        {
+          "day_of_week": 4,
+          "start_time": "6:00 am",
+          "end_time": "12:00 am"
+        },
+        {
+          "day_of_week": 5,
+          "start_time": "6:00 am",
+          "end_time": "12:00 am"
+        },
+        {
+          "day_of_week": 6,
+          "start_time": "6:00 am",
+          "end_time": "12:00 am"
         }
       ],
       "specialOpeningHours": [],
