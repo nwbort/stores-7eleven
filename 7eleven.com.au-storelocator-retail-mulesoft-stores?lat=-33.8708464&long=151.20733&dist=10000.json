@@ -1112,15 +1112,13 @@
       "isFuelStore": true,
       "hasKiosk": false,
       "features": [
-        "CupRescue",
         "Krispykreme",
         "BenJerry",
+        "CupRescue",
+        "MCO",
         "Velocity",
-        "PaP",
         "MCOPilot",
-        "PaPPilot",
-        "Smoothies&Frappés",
-        "MCO"
+        "Smoothies&Frappés"
       ],
       "ParcelMate": [],
       "fuelOptions": [
@@ -1144,37 +1142,37 @@
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -1183,7 +1181,8 @@
         "countryId": "AU",
         "regionId": 1708,
         "region": "New South Wales"
-      }
+      },
+      "hideFromStorelocator": false
     },
     {
       "storeId": "4279",
@@ -10238,6 +10237,7 @@
         " ",
         " ",
         " ",
+        " ",
         "Krispykreme",
         "BenJerry",
         "Velocity",
@@ -10965,6 +10965,7 @@
         " ",
         " ",
         " ",
+        " ",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -11056,6 +11057,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -12795,6 +12797,7 @@
         " ",
         " ",
         " ",
+        " ",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -13579,6 +13582,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -14689,6 +14693,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -25419,6 +25424,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -41774,6 +41780,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -60255,6 +60262,7 @@
         " ",
         " ",
         " ",
+        " ",
         "Krispykreme",
         "BenJerry",
         "MCO",
@@ -67760,6 +67768,7 @@
         " ",
         " ",
         " ",
+        " ",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -68044,6 +68053,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -69317,6 +69327,7 @@
       "isFuelStore": false,
       "hasKiosk": true,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -70955,6 +70966,7 @@
       "isFuelStore": false,
       "hasKiosk": true,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -77288,6 +77300,95 @@
         "countryId": "AU",
         "regionId": 1711,
         "region": "Victoria"
+      },
+      "hideFromStorelocator": false
+    },
+    {
+      "storeId": "4390",
+      "distance": 730.30399320703,
+      "name": "Toowong",
+      "location": [
+        -27.484701400248,
+        152.99277342342
+      ],
+      "centre": "",
+      "address": {
+        "address1": "GA32 Sherwood Road",
+        "address2": "",
+        "suburb": "Toowong",
+        "state": "QLD",
+        "postcode": "4066",
+        "extra": ""
+      },
+      "phone": "",
+      "fax": "",
+      "allHours": true,
+      "isActive": true,
+      "isDigitalDisplay": false,
+      "isFuelStore": false,
+      "hasKiosk": false,
+      "features": [
+        "Alt Milk",
+        "Fried Food",
+        "Pizza",
+        "MCO",
+        "MCOPilot"
+      ],
+      "ParcelMate": [],
+      "fuelOptions": [],
+      "atm": false,
+      "isBrandNewStore": false,
+      "isFranchiseOpp": false,
+      "franchiseSuburb": "",
+      "franchiseTransferAmount": "",
+      "franchiseFee": "",
+      "franchiseApplicationFee": "",
+      "franchisePaidInCapital": "",
+      "franchiseEstimatedCost": "",
+      "allowStoreDelivery": false,
+      "openingHours": [
+        {
+          "day_of_week": 0,
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
+        },
+        {
+          "day_of_week": 1,
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
+        },
+        {
+          "day_of_week": 2,
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
+        },
+        {
+          "day_of_week": 3,
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
+        },
+        {
+          "day_of_week": 4,
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
+        },
+        {
+          "day_of_week": 5,
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
+        },
+        {
+          "day_of_week": 6,
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
+        }
+      ],
+      "specialOpeningHours": [],
+      "timeSlot": "",
+      "region": {
+        "countryId": "AU",
+        "regionId": 1714,
+        "region": "Queensland"
       },
       "hideFromStorelocator": false
     }
