@@ -10241,6 +10241,7 @@
         " ",
         " ",
         " ",
+        " ",
         "Krispykreme",
         "BenJerry",
         "Velocity",
@@ -10972,6 +10973,7 @@
         " ",
         " ",
         " ",
+        " ",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -11063,6 +11065,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -12810,6 +12813,7 @@
         " ",
         " ",
         " ",
+        " ",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -13594,6 +13598,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -14708,6 +14713,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -25442,6 +25448,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -41943,6 +41950,7 @@
         " ",
         " ",
         " ",
+        " ",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -50743,38 +50751,38 @@
       "openingHours": [
         {
           "day_of_week": 0,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 1,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 2,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 3,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 4,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 5,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 6,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -53733,47 +53741,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "Seven Hills",
-      "franchiseTransferAmount": "410000",
+      "franchiseTransferAmount": "385000",
       "franchiseFee": "38362",
       "franchiseApplicationFee": "5500",
       "franchisePaidInCapital": "45000",
-      "franchiseEstimatedCost": "498862",
+      "franchiseEstimatedCost": "473862",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -60149,6 +60157,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -67799,6 +67808,7 @@
         " ",
         " ",
         " ",
+        " ",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -68083,6 +68093,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -69360,6 +69371,7 @@
       "isFuelStore": false,
       "hasKiosk": true,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -71002,6 +71014,7 @@
       "isFuelStore": false,
       "hasKiosk": true,
       "features": [
+        " ",
         " ",
         " ",
         " ",
