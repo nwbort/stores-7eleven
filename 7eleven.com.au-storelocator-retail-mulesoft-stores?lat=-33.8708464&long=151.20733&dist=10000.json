@@ -4560,6 +4560,7 @@
       ],
       "ParcelMate": [],
       "fuelOptions": [
+        "ULP",
         "Diesel",
         "PULP98",
         "PULP"
@@ -10243,6 +10244,7 @@
         " ",
         " ",
         " ",
+        " ",
         "Krispykreme",
         "BenJerry",
         "Velocity",
@@ -10977,6 +10979,7 @@
         " ",
         " ",
         " ",
+        " ",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -11068,6 +11071,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -12821,6 +12825,7 @@
         " ",
         " ",
         " ",
+        " ",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -13605,6 +13610,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -14722,6 +14728,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -25560,6 +25567,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -41922,6 +41930,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -60418,6 +60427,7 @@
         " ",
         " ",
         " ",
+        " ",
         "Krispykreme",
         "BenJerry",
         "MCO",
@@ -67930,6 +67940,7 @@
         " ",
         " ",
         " ",
+        " ",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -68214,6 +68225,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -69494,6 +69506,7 @@
       "isFuelStore": false,
       "hasKiosk": true,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -71139,6 +71152,7 @@
       "isFuelStore": false,
       "hasKiosk": true,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -77483,6 +77497,95 @@
       "hideFromStorelocator": false
     },
     {
+      "storeId": "1517",
+      "distance": 709.99698681827,
+      "name": "Oakleigh Station",
+      "location": [
+        -37.899700020446,
+        145.08893349501
+      ],
+      "centre": "",
+      "address": {
+        "address1": "7A Portman Street",
+        "address2": "",
+        "suburb": "Oakleigh",
+        "state": "VIC",
+        "postcode": "3166",
+        "extra": ""
+      },
+      "phone": "0455621342",
+      "fax": "",
+      "allHours": false,
+      "isActive": true,
+      "isDigitalDisplay": false,
+      "isFuelStore": false,
+      "hasKiosk": false,
+      "features": [
+        "Alt Milk",
+        "Fried Food",
+        "Pizza",
+        "MCO",
+        "MCOPilot"
+      ],
+      "ParcelMate": [],
+      "fuelOptions": [],
+      "atm": false,
+      "isBrandNewStore": false,
+      "isFranchiseOpp": false,
+      "franchiseSuburb": "",
+      "franchiseTransferAmount": "",
+      "franchiseFee": "",
+      "franchiseApplicationFee": "",
+      "franchisePaidInCapital": "",
+      "franchiseEstimatedCost": "",
+      "allowStoreDelivery": false,
+      "openingHours": [
+        {
+          "day_of_week": 0,
+          "start_time": "6:00 am",
+          "end_time": "12:00 am"
+        },
+        {
+          "day_of_week": 1,
+          "start_time": "6:00 am",
+          "end_time": "12:00 am"
+        },
+        {
+          "day_of_week": 2,
+          "start_time": "6:00 am",
+          "end_time": "12:00 am"
+        },
+        {
+          "day_of_week": 3,
+          "start_time": "6:00 am",
+          "end_time": "12:00 am"
+        },
+        {
+          "day_of_week": 4,
+          "start_time": "6:00 am",
+          "end_time": "12:00 am"
+        },
+        {
+          "day_of_week": 5,
+          "start_time": "6:00 am",
+          "end_time": "12:00 am"
+        },
+        {
+          "day_of_week": 6,
+          "start_time": "6:00 am",
+          "end_time": "12:00 am"
+        }
+      ],
+      "specialOpeningHours": [],
+      "timeSlot": "",
+      "region": {
+        "countryId": "AU",
+        "regionId": 1711,
+        "region": "Victoria"
+      },
+      "hideFromStorelocator": false
+    },
+    {
       "storeId": "4390",
       "distance": 730.30399320703,
       "name": "Toowong",
@@ -77560,6 +77663,95 @@
           "day_of_week": 6,
           "start_time": "12:00 am",
           "end_time": "11:59 pm"
+        }
+      ],
+      "specialOpeningHours": [],
+      "timeSlot": "",
+      "region": {
+        "countryId": "AU",
+        "regionId": 1714,
+        "region": "Queensland"
+      },
+      "hideFromStorelocator": false
+    },
+    {
+      "storeId": "4367",
+      "distance": 732.26874336345,
+      "name": "George Street",
+      "location": [
+        -27.473581680078,
+        153.02660001177
+      ],
+      "centre": "",
+      "address": {
+        "address1": "41 George St",
+        "address2": "",
+        "suburb": "Brisbane",
+        "state": "QLD",
+        "postcode": "4000",
+        "extra": ""
+      },
+      "phone": "0400034480",
+      "fax": "",
+      "allHours": false,
+      "isActive": true,
+      "isDigitalDisplay": false,
+      "isFuelStore": false,
+      "hasKiosk": false,
+      "features": [
+        "Alt Milk",
+        "Fried Food",
+        "Pizza",
+        "MCO",
+        "MCOPilot"
+      ],
+      "ParcelMate": [],
+      "fuelOptions": [],
+      "atm": false,
+      "isBrandNewStore": false,
+      "isFranchiseOpp": false,
+      "franchiseSuburb": "",
+      "franchiseTransferAmount": "",
+      "franchiseFee": "",
+      "franchiseApplicationFee": "",
+      "franchisePaidInCapital": "",
+      "franchiseEstimatedCost": "",
+      "allowStoreDelivery": false,
+      "openingHours": [
+        {
+          "day_of_week": 0,
+          "start_time": "5:00 am",
+          "end_time": "12:00 am"
+        },
+        {
+          "day_of_week": 1,
+          "start_time": "5:00 am",
+          "end_time": "12:00 am"
+        },
+        {
+          "day_of_week": 2,
+          "start_time": "5:00 am",
+          "end_time": "12:00 am"
+        },
+        {
+          "day_of_week": 3,
+          "start_time": "5:00 am",
+          "end_time": "12:00 am"
+        },
+        {
+          "day_of_week": 4,
+          "start_time": "5:00 am",
+          "end_time": "12:00 am"
+        },
+        {
+          "day_of_week": 5,
+          "start_time": "5:00 am",
+          "end_time": "12:00 am"
+        },
+        {
+          "day_of_week": 6,
+          "start_time": "5:00 am",
+          "end_time": "12:00 am"
         }
       ],
       "specialOpeningHours": [],
