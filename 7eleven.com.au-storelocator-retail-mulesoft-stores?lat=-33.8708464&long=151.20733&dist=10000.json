@@ -9547,47 +9547,47 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "600000",
+      "franchiseTransferAmount": "500000",
       "franchiseFee": "5500",
       "franchiseApplicationFee": "5500",
       "franchisePaidInCapital": "45000",
-      "franchiseEstimatedCost": "656000",
+      "franchiseEstimatedCost": "556000",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "end_time": "12:00 am"
         }
       ],
       "specialOpeningHours": [],
@@ -10098,6 +10098,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -10988,6 +10989,7 @@
         " ",
         " ",
         " ",
+        " ",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -11079,6 +11081,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -12842,6 +12845,7 @@
         " ",
         " ",
         " ",
+        " ",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -13626,6 +13630,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -14748,6 +14753,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -25742,6 +25748,7 @@
         " ",
         " ",
         " ",
+        " ",
         "Krispykreme",
         "BenJerry",
         "MCO",
@@ -30810,38 +30817,38 @@
       "openingHours": [
         {
           "day_of_week": 0,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 1,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 2,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 3,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 4,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 5,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 6,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -41958,6 +41965,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -60464,6 +60472,7 @@
         " ",
         " ",
         " ",
+        " ",
         "Krispykreme",
         "BenJerry",
         "MCO",
@@ -67981,6 +67990,7 @@
         " ",
         " ",
         " ",
+        " ",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -68265,6 +68275,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -69550,6 +69561,7 @@
       "isFuelStore": false,
       "hasKiosk": true,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -71350,6 +71362,7 @@
         " ",
         " ",
         " ",
+        " ",
         "MCO",
         "MCOPilot"
       ],
@@ -72363,7 +72376,7 @@
         "address2": "",
         "suburb": "Albion",
         "state": "QLD",
-        "postcode": "4030",
+        "postcode": "4010",
         "extra": ""
       },
       "phone": "0488 340 438",
