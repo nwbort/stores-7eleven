@@ -10252,6 +10252,7 @@
         " ",
         " ",
         " ",
+        " ",
         "Krispykreme",
         "BenJerry",
         "Velocity",
@@ -10994,6 +10995,7 @@
         " ",
         " ",
         " ",
+        " ",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -11085,6 +11087,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -12854,6 +12857,7 @@
         " ",
         " ",
         " ",
+        " ",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -13638,6 +13642,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -14763,6 +14768,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -25763,6 +25769,7 @@
         " ",
         " ",
         " ",
+        " ",
         "Krispykreme",
         "BenJerry",
         "MCO",
@@ -35620,6 +35627,7 @@
       "features": [
         "CupRescue",
         "TrailerHire",
+        "Alt Milk",
         "Krispykreme",
         "BenJerry",
         "Velocity",
@@ -41980,6 +41988,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -60492,6 +60501,7 @@
         " ",
         " ",
         " ",
+        " ",
         "Krispykreme",
         "BenJerry",
         "MCO",
@@ -60703,7 +60713,7 @@
       ],
       "atm": true,
       "isBrandNewStore": false,
-      "isFranchiseOpp": true,
+      "isFranchiseOpp": false,
       "franchiseSuburb": "",
       "franchiseTransferAmount": "1050000",
       "franchiseFee": "219560",
@@ -60715,37 +60725,37 @@
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -68012,6 +68022,7 @@
         " ",
         " ",
         " ",
+        " ",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -68296,6 +68307,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -69584,6 +69596,7 @@
       "isFuelStore": false,
       "hasKiosk": true,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -71237,6 +71250,7 @@
       "isFuelStore": false,
       "hasKiosk": true,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -77663,7 +77677,7 @@
       },
       "phone": "0484913347",
       "fax": "",
-      "allHours": true,
+      "allHours": false,
       "isActive": true,
       "isDigitalDisplay": false,
       "isFuelStore": false,
@@ -77690,38 +77704,38 @@
       "openingHours": [
         {
           "day_of_week": 0,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "6:00 am",
+          "end_time": "10:00 pm"
         },
         {
           "day_of_week": 1,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "5:30 am",
+          "end_time": "10:00 pm"
         },
         {
           "day_of_week": 2,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "5:30 am",
+          "end_time": "10:00 pm"
         },
         {
           "day_of_week": 3,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "5:30 am",
+          "end_time": "10:00 pm"
         },
         {
           "day_of_week": 4,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "5:30 am",
+          "end_time": "10:00 pm"
         },
         {
           "day_of_week": 5,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "5:30 am",
+          "end_time": "10:00 pm"
         },
         {
           "day_of_week": 6,
-          "start_time": "12:00 am",
-          "end_time": "11:59 pm"
+          "start_time": "6:00 am",
+          "end_time": "10:00 pm"
         }
       ],
       "specialOpeningHours": [],
