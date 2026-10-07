@@ -10257,6 +10257,7 @@
         " ",
         " ",
         " ",
+        " ",
         "Krispykreme",
         "BenJerry",
         "Velocity",
@@ -11004,6 +11005,7 @@
         " ",
         " ",
         " ",
+        " ",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -11095,6 +11097,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -12874,6 +12877,7 @@
         " ",
         " ",
         " ",
+        " ",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -13658,6 +13662,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -14788,6 +14793,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -25798,6 +25804,7 @@
         " ",
         " ",
         " ",
+        " ",
         "Krispykreme",
         "BenJerry",
         "MCO",
@@ -29944,6 +29951,106 @@
         "MCOPilot",
         "PaPPilot",
         "PaP",
+        "MCO"
+      ],
+      "ParcelMate": [],
+      "fuelOptions": [
+        "ULP",
+        "Diesel",
+        "LPG",
+        "E10",
+        "PULP98"
+      ],
+      "atm": true,
+      "isBrandNewStore": false,
+      "isFranchiseOpp": false,
+      "franchiseSuburb": "",
+      "franchiseTransferAmount": "",
+      "franchiseFee": "",
+      "franchiseApplicationFee": "",
+      "franchisePaidInCapital": "",
+      "franchiseEstimatedCost": "",
+      "allowStoreDelivery": false,
+      "openingHours": [
+        {
+          "day_of_week": 0,
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
+        },
+        {
+          "day_of_week": 1,
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
+        },
+        {
+          "day_of_week": 2,
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
+        },
+        {
+          "day_of_week": 3,
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
+        },
+        {
+          "day_of_week": 4,
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
+        },
+        {
+          "day_of_week": 5,
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
+        },
+        {
+          "day_of_week": 6,
+          "start_time": "12:00 pm",
+          "end_time": "11:59 am"
+        }
+      ],
+      "specialOpeningHours": [],
+      "timeSlot": "",
+      "region": {
+        "countryId": "AU",
+        "regionId": 1708,
+        "region": "New South Wales"
+      }
+    },
+    {
+      "storeId": "2230",
+      "distance": 37.408004088052,
+      "name": "Hassall Grove",
+      "location": [
+        -33.735334451521,
+        150.83676966447
+      ],
+      "centre": "",
+      "address": {
+        "address1": "795 Luxford Road",
+        "address2": "",
+        "suburb": "Hassall Grove",
+        "state": "NSW",
+        "postcode": "2761",
+        "extra": ""
+      },
+      "phone": "02 9835 3374",
+      "fax": "",
+      "allHours": true,
+      "isActive": true,
+      "isDigitalDisplay": false,
+      "isFuelStore": true,
+      "hasKiosk": false,
+      "features": [
+        "Carwash",
+        "CupRescue",
+        "Alt Milk",
+        "Krispykreme",
+        "BenJerry",
+        "Velocity",
+        "MCOPilot",
+        "PaPPilot",
+        "PaP",
+        "Smoothies&Frappés",
         "MCO"
       ],
       "ParcelMate": [],
@@ -42016,6 +42123,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -60538,6 +60646,7 @@
         " ",
         " ",
         " ",
+        " ",
         "Krispykreme",
         "BenJerry",
         "MCO",
@@ -68063,6 +68172,7 @@
         " ",
         " ",
         " ",
+        " ",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -68347,6 +68457,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -69640,6 +69751,7 @@
       "isFuelStore": false,
       "hasKiosk": true,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -71298,6 +71410,7 @@
       "isFuelStore": false,
       "hasKiosk": true,
       "features": [
+        " ",
         " ",
         " ",
         " ",
