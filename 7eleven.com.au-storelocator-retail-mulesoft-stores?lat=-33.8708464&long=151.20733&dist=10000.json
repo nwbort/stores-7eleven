@@ -10286,6 +10286,7 @@
         " ",
         " ",
         " ",
+        " ",
         "Krispykreme",
         "BenJerry",
         "Velocity",
@@ -11062,6 +11063,7 @@
         " ",
         " ",
         " ",
+        " ",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -11153,6 +11155,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -12990,6 +12993,7 @@
         " ",
         " ",
         " ",
+        " ",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -13774,6 +13778,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -14933,6 +14938,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -26001,6 +26007,7 @@
         " ",
         " ",
         " ",
+        " ",
         "Krispykreme",
         "BenJerry",
         "MCO",
@@ -28492,7 +28499,7 @@
       ],
       "atm": true,
       "isBrandNewStore": false,
-      "isFranchiseOpp": true,
+      "isFranchiseOpp": false,
       "franchiseSuburb": "",
       "franchiseTransferAmount": "810000",
       "franchiseFee": "106956",
@@ -28504,37 +28511,37 @@
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -34120,7 +34127,7 @@
       "fuelOptions": [],
       "atm": true,
       "isBrandNewStore": false,
-      "isFranchiseOpp": true,
+      "isFranchiseOpp": false,
       "franchiseSuburb": "",
       "franchiseTransferAmount": "288000",
       "franchiseFee": "14433",
@@ -34132,37 +34139,37 @@
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -42319,6 +42326,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -60899,6 +60907,7 @@
         " ",
         " ",
         " ",
+        " ",
         "Krispykreme",
         "BenJerry",
         "MCO",
@@ -68453,6 +68462,7 @@
         " ",
         " ",
         " ",
+        " ",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -68737,6 +68747,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -70059,6 +70070,7 @@
       "isFuelStore": false,
       "hasKiosk": true,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -71746,6 +71758,7 @@
       "isFuelStore": false,
       "hasKiosk": true,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -78570,6 +78583,7 @@
       "isFuelStore": true,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
