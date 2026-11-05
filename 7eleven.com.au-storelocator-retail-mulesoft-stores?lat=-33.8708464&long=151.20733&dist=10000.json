@@ -10287,6 +10287,7 @@
         " ",
         " ",
         " ",
+        " ",
         "Krispykreme",
         "BenJerry",
         "Velocity",
@@ -11064,6 +11065,7 @@
         " ",
         " ",
         " ",
+        " ",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -11155,6 +11157,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -12994,6 +12997,7 @@
         " ",
         " ",
         " ",
+        " ",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -13778,6 +13782,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -14938,195 +14943,6 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
-        " ",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -15139,49 +14955,49 @@
       "fuelOptions": [],
       "atm": false,
       "isBrandNewStore": false,
-      "isFranchiseOpp": false,
+      "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
-      "franchiseEstimatedCost": "",
+      "franchiseTransferAmount": "300000",
+      "franchiseFee": "5500",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
+      "franchiseEstimatedCost": "356000",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -15190,7 +15006,8 @@
         "countryId": "AU",
         "regionId": 1714,
         "region": "Queensland"
-      }
+      },
+      "hideFromStorelocator": false
     },
     {
       "storeId": "2125",
@@ -26008,6 +25825,7 @@
         " ",
         " ",
         " ",
+        " ",
         "Krispykreme",
         "BenJerry",
         "MCO",
@@ -28511,37 +28329,37 @@
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         }
       ],
       "specialOpeningHours": [],
@@ -34139,37 +33957,37 @@
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "12:00 pm"
+          "end_time": "11:59 am"
         }
       ],
       "specialOpeningHours": [],
@@ -42326,6 +42144,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -59167,49 +58986,49 @@
       ],
       "atm": true,
       "isBrandNewStore": false,
-      "isFranchiseOpp": false,
+      "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "",
-      "franchiseFee": "",
-      "franchiseApplicationFee": "",
-      "franchisePaidInCapital": "",
-      "franchiseEstimatedCost": "1764198",
+      "franchiseTransferAmount": "1350000",
+      "franchiseFee": "201259",
+      "franchiseApplicationFee": "5500",
+      "franchisePaidInCapital": "45000",
+      "franchiseEstimatedCost": "1601759",
       "allowStoreDelivery": false,
       "openingHours": [
         {
           "day_of_week": 0,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 1,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 2,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 3,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 4,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 5,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         },
         {
           "day_of_week": 6,
           "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "end_time": "12:00 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -59218,7 +59037,8 @@
         "countryId": "AU",
         "regionId": 1708,
         "region": "New South Wales"
-      }
+      },
+      "hideFromStorelocator": false
     },
     {
       "storeId": "3031",
@@ -60721,6 +60541,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -68463,6 +68284,7 @@
         " ",
         " ",
         " ",
+        " ",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -68747,6 +68569,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -70070,6 +69893,7 @@
       "isFuelStore": false,
       "hasKiosk": true,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -71758,6 +71582,7 @@
       "isFuelStore": false,
       "hasKiosk": true,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -78583,6 +78408,7 @@
       "isFuelStore": true,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
