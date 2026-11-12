@@ -10295,6 +10295,7 @@
         " ",
         " ",
         " ",
+        " ",
         "Krispykreme",
         "BenJerry",
         "Velocity",
@@ -11079,6 +11080,7 @@
         " ",
         " ",
         " ",
+        " ",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -11170,6 +11172,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -13023,6 +13026,7 @@
         " ",
         " ",
         " ",
+        " ",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -13807,6 +13811,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -14974,6 +14979,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -25674,6 +25680,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -42385,6 +42392,7 @@
         " ",
         " ",
         " ",
+        " ",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -44762,6 +44770,7 @@
       "fuelOptions": [
         "ULP",
         "Diesel",
+        "LPG",
         "PULP98",
         "PULP"
       ],
@@ -60788,6 +60797,7 @@
         " ",
         " ",
         " ",
+        " ",
         "Krispykreme",
         "BenJerry",
         "MCO",
@@ -68350,6 +68360,7 @@
         " ",
         " ",
         " ",
+        " ",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -68634,6 +68645,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -69964,6 +69976,7 @@
       "isFuelStore": false,
       "hasKiosk": true,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -71659,6 +71672,7 @@
       "isFuelStore": false,
       "hasKiosk": true,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -78607,6 +78621,224 @@
         "region": "Victoria"
       },
       "hideFromStorelocator": false
+    },
+    {
+      "storeId": "2409",
+      "distance": 19.92706307254,
+      "name": "Parramatta Westfield",
+      "location": [
+        -33.816829439753,
+        151.0015965103
+      ],
+      "centre": "",
+      "address": {
+        "address1": "Shop 1144, Westfield Parramatta 159-175 Church St",
+        "address2": "",
+        "suburb": "Parramatta",
+        "state": "NSW",
+        "postcode": "2150",
+        "extra": ""
+      },
+      "phone": "0447310731",
+      "fax": "",
+      "allHours": false,
+      "isActive": true,
+      "isDigitalDisplay": false,
+      "isFuelStore": false,
+      "hasKiosk": false,
+      "features": [
+        "Alt Milk",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "MCO",
+        "MCOPilot"
+      ],
+      "ParcelMate": [],
+      "fuelOptions": [],
+      "atm": false,
+      "isBrandNewStore": false,
+      "isFranchiseOpp": false,
+      "franchiseSuburb": "",
+      "franchiseTransferAmount": "",
+      "franchiseFee": "",
+      "franchiseApplicationFee": "",
+      "franchisePaidInCapital": "",
+      "franchiseEstimatedCost": "",
+      "allowStoreDelivery": false,
+      "openingHours": [
+        {
+          "day_of_week": 0,
+          "start_time": "10:00 am",
+          "end_time": "6:00 pm"
+        },
+        {
+          "day_of_week": 1,
+          "start_time": "8:00 am",
+          "end_time": "6:00 pm"
+        },
+        {
+          "day_of_week": 2,
+          "start_time": "8:00 am",
+          "end_time": "6:00 pm"
+        },
+        {
+          "day_of_week": 3,
+          "start_time": "8:00 am",
+          "end_time": "6:00 pm"
+        },
+        {
+          "day_of_week": 4,
+          "start_time": "8:00 am",
+          "end_time": "9:00 pm"
+        },
+        {
+          "day_of_week": 5,
+          "start_time": "8:00 am",
+          "end_time": "6:00 pm"
+        },
+        {
+          "day_of_week": 6,
+          "start_time": "9:00 am",
+          "end_time": "6:00 pm"
+        }
+      ],
+      "specialOpeningHours": [],
+      "timeSlot": "",
+      "region": {
+        "countryId": "AU",
+        "regionId": 1708,
+        "region": "New South Wales"
+      },
+      "hideFromStorelocator": false
+    },
+    {
+      "storeId": "4391",
+      "distance": 732.96618158516,
+      "name": "Post Office Square",
+      "location": [
+        -27.46729613879,
+        153.02735958831
+      ],
+      "centre": "",
+      "address": {
+        "address1": "Shop 2/3, Post Office Square, 270-280 Queen Street",
+        "address2": "",
+        "suburb": "Brisbane",
+        "state": "QLD",
+        "postcode": "4000",
+        "extra": ""
+      },
+      "phone": "0408828089",
+      "fax": "",
+      "allHours": false,
+      "isActive": true,
+      "isDigitalDisplay": false,
+      "isFuelStore": false,
+      "hasKiosk": false,
+      "features": [
+        "Alt Milk"
+      ],
+      "ParcelMate": [],
+      "fuelOptions": [],
+      "atm": false,
+      "isBrandNewStore": false,
+      "isFranchiseOpp": false,
+      "franchiseSuburb": "",
+      "franchiseTransferAmount": "",
+      "franchiseFee": "",
+      "franchiseApplicationFee": "",
+      "franchisePaidInCapital": "",
+      "franchiseEstimatedCost": "",
+      "allowStoreDelivery": false,
+      "openingHours": [
+        {
+          "day_of_week": 0,
+          "start_time": "6:00 am",
+          "end_time": "11:00 pm"
+        },
+        {
+          "day_of_week": 1,
+          "start_time": "6:00 am",
+          "end_time": "11:00 pm"
+        },
+        {
+          "day_of_week": 2,
+          "start_time": "6:00 am",
+          "end_time": "11:00 pm"
+        },
+        {
+          "day_of_week": 3,
+          "start_time": "6:00 am",
+          "end_time": "11:00 pm"
+        },
+        {
+          "day_of_week": 4,
+          "start_time": "6:00 am",
+          "end_time": "11:00 pm"
+        },
+        {
+          "day_of_week": 5,
+          "start_time": "6:00 am",
+          "end_time": "11:00 pm"
+        },
+        {
+          "day_of_week": 6,
+          "start_time": "6:00 am",
+          "end_time": "11:00 pm"
+        }
+      ],
+      "specialOpeningHours": [],
+      "timeSlot": "",
+      "region": {
+        "countryId": "AU",
+        "regionId": 1714,
+        "region": "Queensland"
+      }
     }
   ]
 }
