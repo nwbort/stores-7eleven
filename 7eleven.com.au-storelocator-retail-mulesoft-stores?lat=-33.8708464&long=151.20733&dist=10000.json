@@ -10309,6 +10309,7 @@
         " ",
         " ",
         " ",
+        " ",
         "Krispykreme",
         "BenJerry",
         "Velocity",
@@ -11107,6 +11108,7 @@
         " ",
         " ",
         " ",
+        " ",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -11198,6 +11200,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -13079,6 +13082,7 @@
         " ",
         " ",
         " ",
+        " ",
         "BenJerry",
         "Krispykreme",
         "Velocity",
@@ -13863,6 +13867,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -15044,6 +15049,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -19329,38 +19335,38 @@
       "openingHours": [
         {
           "day_of_week": 0,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 1,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 2,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 3,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 4,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 5,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 6,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -25968,6 +25974,7 @@
         " ",
         " ",
         " ",
+        " ",
         "Krispykreme",
         "BenJerry",
         "MCO",
@@ -32320,38 +32327,38 @@
       "openingHours": [
         {
           "day_of_week": 0,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 1,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 2,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 3,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 4,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 5,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 6,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -34087,7 +34094,7 @@
       "ParcelMate": [],
       "fuelOptions": [],
       "atm": true,
-      "isBrandNewStore": false,
+      "isBrandNewStore": true,
       "isFranchiseOpp": false,
       "franchiseSuburb": "",
       "franchiseTransferAmount": "288000",
@@ -38216,11 +38223,11 @@
       "isBrandNewStore": false,
       "isFranchiseOpp": true,
       "franchiseSuburb": "",
-      "franchiseTransferAmount": "310000",
+      "franchiseTransferAmount": "175000",
       "franchiseFee": "54495",
       "franchiseApplicationFee": "5500",
       "franchisePaidInCapital": "45000",
-      "franchiseEstimatedCost": "414995",
+      "franchiseEstimatedCost": "279995",
       "allowStoreDelivery": false,
       "openingHours": [
         {
@@ -42288,6 +42295,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -47293,38 +47301,38 @@
       "openingHours": [
         {
           "day_of_week": 0,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 1,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 2,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 3,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 4,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 5,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 6,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -51300,38 +51308,38 @@
       "openingHours": [
         {
           "day_of_week": 0,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 1,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 2,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 3,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 4,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 5,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         },
         {
           "day_of_week": 6,
-          "start_time": "12:00 pm",
-          "end_time": "11:59 am"
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
         }
       ],
       "specialOpeningHours": [],
@@ -60916,6 +60924,7 @@
         " ",
         " ",
         " ",
+        " ",
         "Krispykreme",
         "BenJerry",
         "MCO",
@@ -68492,6 +68501,7 @@
         " ",
         " ",
         " ",
+        " ",
         "MCO",
         "MCOPilot",
         "PaPPilot",
@@ -68776,6 +68786,7 @@
       "isFuelStore": false,
       "hasKiosk": false,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -70120,6 +70131,7 @@
       "isFuelStore": false,
       "hasKiosk": true,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -71829,6 +71841,7 @@
       "isFuelStore": false,
       "hasKiosk": true,
       "features": [
+        " ",
         " ",
         " ",
         " ",
@@ -74462,6 +74475,95 @@
         "region": "Victoria"
       },
       "hideFromStorelocator": false
+    },
+    {
+      "storeId": "1435",
+      "distance": 742.30557030006,
+      "name": "Wyndham Vale",
+      "location": [
+        -37.8619742,
+        144.5992758
+      ],
+      "centre": "",
+      "address": {
+        "address1": "1389 Ison Road",
+        "address2": "",
+        "suburb": "Wyndham Vale",
+        "state": "VIC",
+        "postcode": "3024",
+        "extra": ""
+      },
+      "phone": "",
+      "fax": "",
+      "allHours": true,
+      "isActive": true,
+      "isDigitalDisplay": false,
+      "isFuelStore": true,
+      "hasKiosk": false,
+      "features": [
+        "Alt Milk"
+      ],
+      "ParcelMate": [],
+      "fuelOptions": [
+        "ULP",
+        "Diesel",
+        "PULP98",
+        "PULP"
+      ],
+      "atm": false,
+      "isBrandNewStore": false,
+      "isFranchiseOpp": false,
+      "franchiseSuburb": "",
+      "franchiseTransferAmount": "",
+      "franchiseFee": "",
+      "franchiseApplicationFee": "",
+      "franchisePaidInCapital": "",
+      "franchiseEstimatedCost": "",
+      "allowStoreDelivery": false,
+      "openingHours": [
+        {
+          "day_of_week": 0,
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
+        },
+        {
+          "day_of_week": 1,
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
+        },
+        {
+          "day_of_week": 2,
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
+        },
+        {
+          "day_of_week": 3,
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
+        },
+        {
+          "day_of_week": 4,
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
+        },
+        {
+          "day_of_week": 5,
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
+        },
+        {
+          "day_of_week": 6,
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
+        }
+      ],
+      "specialOpeningHours": [],
+      "timeSlot": "",
+      "region": {
+        "countryId": "AU",
+        "regionId": 1711,
+        "region": "Victoria"
+      }
     },
     {
       "storeId": "4318",
@@ -79022,6 +79124,90 @@
         "region": "New South Wales"
       },
       "hideFromStorelocator": false
+    },
+    {
+      "storeId": "3108",
+      "distance": 3290.5547701527,
+      "name": "Northbridge",
+      "location": [
+        -31.94913241632,
+        115.85887689589
+      ],
+      "centre": "",
+      "address": {
+        "address1": "Shop 1, 189 199 William Street",
+        "address2": "",
+        "suburb": "Northbridge",
+        "state": "WA",
+        "postcode": "6003",
+        "extra": ""
+      },
+      "phone": "",
+      "fax": "",
+      "allHours": false,
+      "isActive": true,
+      "isDigitalDisplay": false,
+      "isFuelStore": false,
+      "hasKiosk": false,
+      "features": [
+        "Alt Milk"
+      ],
+      "ParcelMate": [],
+      "fuelOptions": [],
+      "atm": false,
+      "isBrandNewStore": false,
+      "isFranchiseOpp": false,
+      "franchiseSuburb": "",
+      "franchiseTransferAmount": "",
+      "franchiseFee": "",
+      "franchiseApplicationFee": "",
+      "franchisePaidInCapital": "",
+      "franchiseEstimatedCost": "",
+      "allowStoreDelivery": false,
+      "openingHours": [
+        {
+          "day_of_week": 0,
+          "start_time": "6:00 am",
+          "end_time": "12:00 am"
+        },
+        {
+          "day_of_week": 1,
+          "start_time": "6:00 am",
+          "end_time": "12:00 am"
+        },
+        {
+          "day_of_week": 2,
+          "start_time": "6:00 am",
+          "end_time": "12:00 am"
+        },
+        {
+          "day_of_week": 3,
+          "start_time": "6:00 am",
+          "end_time": "12:00 am"
+        },
+        {
+          "day_of_week": 4,
+          "start_time": "6:00 am",
+          "end_time": "12:00 am"
+        },
+        {
+          "day_of_week": 5,
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
+        },
+        {
+          "day_of_week": 6,
+          "start_time": "12:00 am",
+          "end_time": "11:59 pm"
+        }
+      ],
+      "specialOpeningHours": [],
+      "timeSlot": "",
+      "region": {
+        "countryId": "AU",
+        "regionId": 1723,
+        "region": "Western Australia"
+      }
     },
     {
       "storeId": "4391",
